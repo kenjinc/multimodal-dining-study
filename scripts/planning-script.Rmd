@@ -1,0 +1,82 @@
+---
+title: "Planning Script"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Package Loading
+
+```{r}
+library(tidyverse)
+```
+
+# Data Loading
+
+```{r}
+transaction_volume <- read.csv("/Users/kenjinchang/github/multimodal-dining-study/data/parent-data/transaction-volume-082023121623.csv")
+```
+
+# Data Cleaning
+
+```{r}
+transaction_volume <- transaction_volume %>%
+  select(Hour,X15.Minutes,Business.Date,Transactions) %>%
+  rename(hour=Hour,interval=X15.Minutes,date=Business.Date,count=Transactions) %>%
+  unite(minute_hour,c(hour,interval),sep=":",remove=FALSE) %>%
+  unite(date_time,c(date,minute_hour),sep=", ", remove=FALSE)
+```
+
+adding day
+
+transaction_volume %>%
+  mutate("day"=case_when(date=="08/21/2023"~"Monday",date=="08/22/2023"~"Tuesday",date=="08/23/2023"~"Wednesday",date="08/24/2023"~"Thursday",date=="08/25/2023"~"Friday",date=="08/28/2023"~"Monday",date=="08/29/2023"~"Tuesday"))
+
+```{r}
+
+```
+
+
+# Data Analysis
+
+```{r}
+transaction_volume %>%
+  group_by(date) %>%
+  summarise(sum(count))
+```
+ggplot(aes(x=fct_reorder(country_alpha_three,baseline_per_capita_kg_co2e),y=baseline_per_capita_kg_co2e,fill=development_group)) +
+
+```{r}
+transaction_volume %>%
+  ggplot(aes(x=date,y=count)) + 
+  geom_col()
+```
+development_group_baseline_per_capita <- impact_data %>%
+  ggplot(aes(x=fct_reorder(country_alpha_three,baseline_per_capita_kg_co2e),y=baseline_per_capita_kg_co2e,fill=development_group)) +
+  geom_col() + 
+  xlab("Nation-State") + 
+  ylab("Diet-Attributable Emissions at Baseline") + 
+  scale_fill_brewer(palette="Set3",na.value="white",name="Development Group",labels=c("Low (n=16)","Medium (n=16)","High (n=30)","Very High (n=58)","NA")) +
+  theme(axis.text.x=element_text(angle=90,vjust=0.5,hjust=1),legend.position="bottom",legend.justification="right",legend.box.spacing=unit(0,"pt"),legend.key.size=unit(10,"pt"),panel.grid=element_blank(),panel.background=element_rect(fill="white"),panel.border=element_rect(fill=NA),legend.title=element_text(size=10),legend.text=element_text(size=10),plot.title=element_text(size=10))
+
+```{r}
+transaction_volume %>%
+  group_by(hour) %>%
+  summarise(sum(count))
+```
+
+
+```{r}
+transaction_volume %>%
+  group_by(minute_hour) %>%
+  summarise(sum(count))
+```
+
+```{r}
+transaction_volume %>%
+  group_by(date_time) %>%
+  summarise(sum(count))
+```
+
