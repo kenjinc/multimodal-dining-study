@@ -264,7 +264,14 @@ summary(res.aov)
 ```{r}
 TukeyHSD(res.aov)
 ```
-16-1,17-1,17-10,17-11,16-12,17-12,17-13,17-15,2-16,3-16,4-16,5-16,6-16,7-16,9-16,2-17,3-17,4-17,5-17,6-17,7-17,8-17,9-17
+
+1-16,2-16,3-16,4-16,5-16,6-16,7-16,9-16,12-16: 9 weeks
+
+1-17,2-17,3-17,4-17,5-17,6-17,7-17,8-17,9-17,10-17,11-17,12-17,13-17,15-17: 14 weeks
+
+NEED TO SEE minute-interval comparisons 
+
+also do proportion of sales that are plant-based vs not 
 
 ```{r}
 transaction_volume_by_minute %>%
