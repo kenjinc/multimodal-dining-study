@@ -16,6 +16,7 @@ library(forcats)
 library(lazyeval)
 library(ggpubr)
 library(ggridges)
+library(RColorBrewer)
 ```
 
 # Data Loading
@@ -41,6 +42,14 @@ transaction_volume_by_minute <- transaction_volume_by_minute %>%
   mutate(day=case_when(date=="08/21/2023"~"Monday",date=="08/22/2023"~"Tuesday",date=="08/23/2023"~"Wednesday",date=="08/24/2023"~"Thursday",date=="08/25/2023"~"Friday",date=="08/28/2023"~"Monday",date=="08/29/2023"~"Tuesday",date=="08/30/2023"~"Wednesday",date=="08/31/2023"~"Thursday",date=="09/01/2023"~"Friday",date=="09/05/2023"~"Tuesday",date=="09/06/2023"~"Wednesday",date=="09/07/2023"~"Thursday",date=="09/08/2023"~"Friday",date=="09/11/2023"~"Monday",date=="09/12/2023"~"Tuesday",date=="09/13/2023"~"Wednesday",date=="09/14/2023"~"Thursday",date=="09/15/2023"~"Friday",date=="09/18/2023"~"Monday",date=="09/19/2023"~"Tuesday",date=="09/20/2023"~"Wednesday",date=="09/21/2023"~"Thursday",date=="09/22/2023"~"Friday",date=="09/25/2023"~"Monday",date=="09/26/2023"~"Tuesday",date=="09/27/2023"~"Wednesday",date=="09/28/2023"~"Thursday",date=="09/29/2023"~"Friday",date=="10/02/2023"~"Monday",date=="10/03/2023"~"Tuesday",date=="10/04/2023"~"Wednesday",date=="10/05/2023"~"Thursday",date=="10/06/2023"~"Friday",date=="10/11/2023"~"Wednesday",date=="10/12/2023"~"Thursday",date=="10/13/2023"~"Friday",date=="10/16/2023"~"Monday",date=="10/17/2023"~"Tuesday",date=="10/18/2023"~"Wednesday",date=="10/19/2023"~"Thursday",date=="10/20/2023"~"Friday",date=="10/23/2023"~"Monday",date=="10/24/2023"~"Tuesday",date=="10/25/2023"~"Wednesday",date=="10/26/2023"~"Thursday",date=="10/27/2023"~"Friday",date=="10/30/2023"~"Monday",date=="10/31/2023"~"Tuesday",date=="11/01/2023"~"Wednesday",date=="11/02/2023"~"Thursday",date=="11/03/2023"~"Friday",date=="11/06/2023"~"Monday",date=="11/07/2023"~"Tuesday",date=="11/08/2023"~"Wednesday",date=="11/09/2023"~"Thursday",date=="11/10/2023"~"Friday",date=="11/13/2023"~"Monday",date=="11/14/2023"~"Tuesday",date=="11/15/2023"~"Wednesday",date=="11/16/2023"~"Thursday",date=="11/17/2023"~"Friday",date=="11/18/2023"~"Saturday",date=="11/20/2023"~"Monday",date=="11/21/2023"~"Tuesday",date=="11/27/2023"~"Monday",date=="11/28/2023"~"Tuesday",date=="11/29/2023"~"Wednesday",date=="11/30/2023"~"Thursday",date=="12/01/2023"~"Friday",date=="12/04/2023"~"Monday",date=="12/05/2023"~"Tuesday",date=="12/06/2023"~"Wednesday",date=="12/07/2023"~"Thursday",date=="12/08/2023"~"Friday",date=="12/11/2023"~"Monday",date=="12/12/2023"~"Tuesday",date=="12/13/2023"~"Wednesday",date=="12/14/2023"~"Thursday",date=="12/15/2023"~"Friday"))
 ```
 
+adding week
+
+```{r}
+transaction_volume_by_minute <- transaction_volume_by_minute %>%
+  mutate(week=case_when(date=="08/21/2023"~"1",date=="08/22/2023"~"1",date=="08/23/2023"~"1",date=="08/24/2023"~"1",date=="08/25/2023"~"1",date=="08/28/2023"~"2",date=="08/29/2023"~"2",date=="08/30/2023"~"2",date=="08/31/2023"~"2",date=="09/01/2023"~"2",date=="09/05/2023"~"3",date=="09/06/2023"~"3",date=="09/07/2023"~"3",date=="09/08/2023"~"3",date=="09/11/2023"~"4",date=="09/12/2023"~"4",date=="09/13/2023"~"4",date=="09/14/2023"~"4",date=="09/15/2023"~"4",date=="09/18/2023"~"5",date=="09/19/2023"~"5",date=="09/20/2023"~"5",date=="09/21/2023"~"5",date=="09/22/2023"~"5",date=="09/25/2023"~"6",date=="09/26/2023"~"6",date=="09/27/2023"~"6",date=="09/28/2023"~"6",date=="09/29/2023"~"6",date=="10/02/2023"~"7",date=="10/03/2023"~"7",date=="10/04/2023"~"7",date=="10/05/2023"~"7",date=="10/06/2023"~"7",date=="10/11/2023"~"8",date=="10/12/2023"~"8",date=="10/13/2023"~"8",date=="10/16/2023"~"9",date=="10/17/2023"~"9",date=="10/18/2023"~"9",date=="10/19/2023"~"9",date=="10/20/2023"~"9",date=="10/23/2023"~"10",date=="10/24/2023"~"10",date=="10/25/2023"~"10",date=="10/26/2023"~"10",date=="10/27/2023"~"10",date=="10/30/2023"~"11",date=="10/31/2023"~"11",date=="11/01/2023"~"11",date=="11/02/2023"~"11",date=="11/03/2023"~"11",date=="11/06/2023"~"12",date=="11/07/2023"~"12",date=="11/08/2023"~"12",date=="11/09/2023"~"12",date=="11/10/2023"~"12",date=="11/13/2023"~"13",date=="11/14/2023"~"13",date=="11/15/2023"~"13",date=="11/16/2023"~"13",date=="11/17/2023"~"13",date=="11/18/2023"~"13",date=="11/20/2023"~"14",date=="11/21/2023"~"14",date=="11/27/2023"~"15",date=="11/28/2023"~"15",date=="11/29/2023"~"15",date=="11/30/2023"~"15",date=="12/01/2023"~"15",date=="12/04/2023"~"16",date=="12/05/2023"~"16",date=="12/06/2023"~"16",date=="12/07/2023"~"16",date=="12/08/2023"~"16",date=="12/11/2023"~"17",date=="12/12/2023"~"17",date=="12/13/2023"~"17",date=="12/14/2023"~"17",date=="12/15/2023"~"17"))
+```
+
+
 abbreviate date format
 
 ```{r}
@@ -63,6 +72,7 @@ transaction_volume_by_day <- transaction_volume_by_minute %>%
   summarise(sum(count)) %>%
   rename(count="sum(count)") %>%
   mutate(day=case_when(date=="08/21/2023"~"Monday",date=="08/22/2023"~"Tuesday",date=="08/23/2023"~"Wednesday",date=="08/24/2023"~"Thursday",date=="08/25/2023"~"Friday",date=="08/28/2023"~"Monday",date=="08/29/2023"~"Tuesday",date=="08/30/2023"~"Wednesday",date=="08/31/2023"~"Thursday",date=="09/01/2023"~"Friday",date=="09/05/2023"~"Tuesday",date=="09/06/2023"~"Wednesday",date=="09/07/2023"~"Thursday",date=="09/08/2023"~"Friday",date=="09/11/2023"~"Monday",date=="09/12/2023"~"Tuesday",date=="09/13/2023"~"Wednesday",date=="09/14/2023"~"Thursday",date=="09/15/2023"~"Friday",date=="09/18/2023"~"Monday",date=="09/19/2023"~"Tuesday",date=="09/20/2023"~"Wednesday",date=="09/21/2023"~"Thursday",date=="09/22/2023"~"Friday",date=="09/25/2023"~"Monday",date=="09/26/2023"~"Tuesday",date=="09/27/2023"~"Wednesday",date=="09/28/2023"~"Thursday",date=="09/29/2023"~"Friday",date=="10/02/2023"~"Monday",date=="10/03/2023"~"Tuesday",date=="10/04/2023"~"Wednesday",date=="10/05/2023"~"Thursday",date=="10/06/2023"~"Friday",date=="10/11/2023"~"Wednesday",date=="10/12/2023"~"Thursday",date=="10/13/2023"~"Friday",date=="10/16/2023"~"Monday",date=="10/17/2023"~"Tuesday",date=="10/18/2023"~"Wednesday",date=="10/19/2023"~"Thursday",date=="10/20/2023"~"Friday",date=="10/23/2023"~"Monday",date=="10/24/2023"~"Tuesday",date=="10/25/2023"~"Wednesday",date=="10/26/2023"~"Thursday",date=="10/27/2023"~"Friday",date=="10/30/2023"~"Monday",date=="10/31/2023"~"Tuesday",date=="11/01/2023"~"Wednesday",date=="11/02/2023"~"Thursday",date=="11/03/2023"~"Friday",date=="11/06/2023"~"Monday",date=="11/07/2023"~"Tuesday",date=="11/08/2023"~"Wednesday",date=="11/09/2023"~"Thursday",date=="11/10/2023"~"Friday",date=="11/13/2023"~"Monday",date=="11/14/2023"~"Tuesday",date=="11/15/2023"~"Wednesday",date=="11/16/2023"~"Thursday",date=="11/17/2023"~"Friday",date=="11/18/2023"~"Saturday",date=="11/20/2023"~"Monday",date=="11/21/2023"~"Tuesday",date=="11/27/2023"~"Monday",date=="11/28/2023"~"Tuesday",date=="11/29/2023"~"Wednesday",date=="11/30/2023"~"Thursday",date=="12/01/2023"~"Friday",date=="12/04/2023"~"Monday",date=="12/05/2023"~"Tuesday",date=="12/06/2023"~"Wednesday",date=="12/07/2023"~"Thursday",date=="12/08/2023"~"Friday",date=="12/11/2023"~"Monday",date=="12/12/2023"~"Tuesday",date=="12/13/2023"~"Wednesday",date=="12/14/2023"~"Thursday",date=="12/15/2023"~"Friday")) %>%
+  mutate(week=case_when(date=="08/21/2023"~"1",date=="08/22/2023"~"1",date=="08/23/2023"~"1",date=="08/24/2023"~"1",date=="08/25/2023"~"1",date=="08/28/2023"~"2",date=="08/29/2023"~"2",date=="08/30/2023"~"2",date=="08/31/2023"~"2",date=="09/01/2023"~"2",date=="09/05/2023"~"3",date=="09/06/2023"~"3",date=="09/07/2023"~"3",date=="09/08/2023"~"3",date=="09/11/2023"~"4",date=="09/12/2023"~"4",date=="09/13/2023"~"4",date=="09/14/2023"~"4",date=="09/15/2023"~"4",date=="09/18/2023"~"5",date=="09/19/2023"~"5",date=="09/20/2023"~"5",date=="09/21/2023"~"5",date=="09/22/2023"~"5",date=="09/25/2023"~"6",date=="09/26/2023"~"6",date=="09/27/2023"~"6",date=="09/28/2023"~"6",date=="09/29/2023"~"6",date=="10/02/2023"~"7",date=="10/03/2023"~"7",date=="10/04/2023"~"7",date=="10/05/2023"~"7",date=="10/06/2023"~"7",date=="10/11/2023"~"8",date=="10/12/2023"~"8",date=="10/13/2023"~"8",date=="10/16/2023"~"9",date=="10/17/2023"~"9",date=="10/18/2023"~"9",date=="10/19/2023"~"9",date=="10/20/2023"~"9",date=="10/23/2023"~"10",date=="10/24/2023"~"10",date=="10/25/2023"~"10",date=="10/26/2023"~"10",date=="10/27/2023"~"10",date=="10/30/2023"~"11",date=="10/31/2023"~"11",date=="11/01/2023"~"11",date=="11/02/2023"~"11",date=="11/03/2023"~"11",date=="11/06/2023"~"12",date=="11/07/2023"~"12",date=="11/08/2023"~"12",date=="11/09/2023"~"12",date=="11/10/2023"~"12",date=="11/13/2023"~"13",date=="11/14/2023"~"13",date=="11/15/2023"~"13",date=="11/16/2023"~"13",date=="11/17/2023"~"13",date=="11/18/2023"~"13",date=="11/20/2023"~"14",date=="11/21/2023"~"14",date=="11/27/2023"~"15",date=="11/28/2023"~"15",date=="11/29/2023"~"15",date=="11/30/2023"~"15",date=="12/01/2023"~"15",date=="12/04/2023"~"16",date=="12/05/2023"~"16",date=="12/06/2023"~"16",date=="12/07/2023"~"16",date=="12/08/2023"~"16",date=="12/11/2023"~"17",date=="12/12/2023"~"17",date=="12/13/2023"~"17",date=="12/14/2023"~"17",date=="12/15/2023"~"17")) %>%
   mutate(date_abbrev=case_when(date=="08/21/2023"~"08.21",date=="08/22/2023"~"08.22",date=="08/23/2023"~"08.23",date=="08/24/2023"~"08.24",date=="08/25/2023"~"08.25",date=="08/28/2023"~"08.28",date=="08/29/2023"~"08.29",date=="08/30/2023"~"08.30",date=="08/31/2023"~"08.31",date=="09/01/2023"~"09.01",date=="09/05/2023"~"09.05",date=="09/06/2023"~"09.06",date=="09/07/2023"~"09.07",date=="09/08/2023"~"09.08",date=="09/11/2023"~"09.11",date=="09/12/2023"~"09.12",date=="09/13/2023"~"09.13",date=="09/14/2023"~"09.14",date=="09/15/2023"~"09.15",date=="09/18/2023"~"09.18",date=="09/19/2023"~"09.19",date=="09/20/2023"~"09.20",date=="09/21/2023"~"09.21",date=="09/22/2023"~"09.22",date=="09/25/2023"~"09.25",date=="09/26/2023"~"09.26",date=="09/27/2023"~"09.27",date=="09/28/2023"~"09.28",date=="09/29/2023"~"09.29",date=="10/02/2023"~"10.02",date=="10/03/2023"~"10.03",date=="10/04/2023"~"10.04",date=="10/05/2023"~"10.05",date=="10/06/2023"~"10.06",date=="10/11/2023"~"10.11",date=="10/12/2023"~"10.12",date=="10/13/2023"~"10.13",date=="10/16/2023"~"10.16",date=="10/17/2023"~"10.17",date=="10/18/2023"~"10.18",date=="10/19/2023"~"10.19",date=="10/20/2023"~"10.20",date=="10/23/2023"~"10.23",date=="10/24/2023"~"10.24",date=="10/25/2023"~"10.25",date=="10/26/2023"~"10.26",date=="10/27/2023"~"10.27",date=="10/30/2023"~"10.30",date=="10/31/2023"~"10.31",date=="11/01/2023"~"11.01",date=="11/02/2023"~"11.02",date=="11/03/2023"~"11.03",date=="11/06/2023"~"11.06",date=="11/07/2023"~"11.07",date=="11/08/2023"~"11.08",date=="11/09/2023"~"11.09",date=="11/10/2023"~"11.10",date=="11/13/2023"~"11.13",date=="11/14/2023"~"11.14",date=="11/15/2023"~"11.15",date=="11/16/2023"~"11.16",date=="11/17/2023"~"11.17",date=="11/18/2023"~"11.18",date=="11/20/2023"~"11.20",date=="11/21/2023"~"11.21",date=="11/27/2023"~"11.27",date=="11/28/2023"~"11.28",date=="11/29/2023"~"11.29",date=="11/30/2023"~"11.30",date=="12/01/2023"~"12.01",date=="12/04/2023"~"12.04",date=="12/05/2023"~"12.05",date=="12/06/2023"~"12.06",date=="12/07/2023"~"12.07",date=="12/08/2023"~"12.08",date=="12/11/2023"~"12.11",date=="12/12/2023"~"12.12",date=="12/13/2023"~"12.13",date=="12/14/2023"~"12.14",date=="12/15/2023"~"12.15"))
 ```
 
@@ -164,7 +174,105 @@ ggsave("sf1.png",path="/Users/kenjinchang/github/multimodal-dining-study/figures
 ```
 
 
-insert holidays?
+insert holidays to A?
+
+
+now compare weeks?
+
+```{r}
+transaction_volume_by_day %>% 
+  group_by(week) %>%
+  summarise(n(),sum(count),mean(count),sd(count)) %>%
+  rename(frequency="n()",sum="sum(count)",mean="mean(count)",sd="sd(count)")
+```
+
+```{r}
+nb.cols <- 17
+mycolors <- colorRampPalette(brewer.pal(8,"Set3"))(nb.cols)
+```
+
+```{r}
+volume_by_week <- transaction_volume_by_day %>% 
+  group_by(week) %>%
+  summarise(n(),sum(count),mean(count),sd(count)) %>%
+  rename(frequency="n()",sum="sum(count)",mean="mean(count)",sd="sd(count)") %>%
+  mutate(week=fct_relevel(week,"1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17")) %>%
+  ggplot(aes(x=week,y=sum,fill=week)) + 
+  geom_col(color="black",linewidth=0.1,alpha=0.8) +
+  xlab("Week") + 
+  ylab("Transaction Volume") + 
+  scale_fill_manual(values=mycolors,name="") + 
+  theme(axis.text.x=element_text(angle=90,vjust=0.5,hjust=1),legend.position="none",legend.justification="center",legend.box.spacing=unit(10,"pt"),legend.key.size=unit(10,"pt"),panel.grid=element_blank(),panel.background=element_rect(fill="white"),panel.border=element_rect(fill=NA),legend.title=element_text(size=10),legend.text=element_text(size=10),plot.title=element_text(size=10))
+```
+
+
+```{r}
+days_by_week <- transaction_volume_by_day %>%
+  group_by(week) %>%
+  summarise(n(),sum(count),mean(count),sd(count)) %>%
+  rename(frequency="n()",sum="sum(count)",mean="mean(count)",sd="sd(count)") %>%
+  mutate(week=fct_relevel(week,"1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17")) %>%
+  ggplot(aes(x=week,y=frequency,fill=week,color=week)) + 
+  geom_col(color="black",linewidth=0.1,alpha=0.8) + 
+  xlab("Week") + 
+  ylab("Service Days") + 
+  scale_fill_manual(values=mycolors,name="") + 
+  scale_color_manual(values=mycolors,name="") + 
+  theme(legend.position="none",legend.justification="center",legend.box.spacing=unit(10,"pt"),legend.key.size=unit(10,"pt"),panel.grid=element_blank(),panel.background=element_rect(fill="white"),panel.border=element_rect(fill=NA),legend.title=element_text(size=10),legend.text=element_text(size=10),plot.title=element_text(size=10))
+```
+
+
+```{r}
+mean_by_week <- transaction_volume_by_day %>%
+  group_by(week) %>%
+  summarise(n(),sum(count),mean(count),sd(count)) %>%
+  rename(frequency="n()",sum="sum(count)",mean="mean(count)",sd="sd(count)") %>%
+  mutate(week=fct_relevel(week,"1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17")) %>%
+  ggplot(aes(x=week,y=mean,fill=week,color=week)) + 
+  geom_col(color="black",linewidth=0.1,alpha=0.8) + 
+  geom_errorbar(aes(ymin=mean-sd,ymax=mean+sd),width=0.1,size=0.5) +
+  xlab("Week") + 
+  ylab("Transaction Volume") + 
+  scale_fill_manual(values=mycolors,name="") + 
+  scale_color_manual(values=mycolors,name="") + 
+  geom_hline(yintercept=1685.323	,linetype="dashed",size=0.3) +
+  theme(legend.position="none",legend.justification="center",legend.box.spacing=unit(10,"pt"),legend.key.size=unit(10,"pt"),panel.grid=element_blank(),panel.background=element_rect(fill="white"),panel.border=element_rect(fill=NA),legend.title=element_text(size=10),legend.text=element_text(size=10),plot.title=element_text(size=10))
+```
+
+```{r}
+transaction_volume_by_day %>%
+  group_by(week) %>%
+  summarise(n(),sum(count),mean(count),sd(count)) %>%
+  rename(frequency="n()",sum="sum(count)",mean="mean(count)",sd="sd(count)") %>%
+  summarise(mean(mean))
+```
+
+
+```{r}
+ggarrange(ggarrange(days_by_week,volume_by_week,ncol=2,labels=c("A","B")),mean_by_week,nrow=2,labels=c("","C"),common.legend=TRUE,legend="none",heights=c(0.8,1))
+```
+
+```{r}
+sf2 <- ggarrange(ggarrange(days_by_week,volume_by_week,ncol=2,labels=c("A","B")),mean_by_week,nrow=2,labels=c("","C"),common.legend=TRUE,legend="none",heights=c(0.8,1))
+ggsave("sf2.png",path="/Users/kenjinchang/github/multimodal-dining-study/figures/sf",plot=sf2,width=30,height=20,units="cm",dpi=150)
+```
+
+```{r}
+res.aov <- aov(count~week,data=transaction_volume_by_day)
+summary(res.aov)
+```
+```{r}
+TukeyHSD(res.aov)
+```
+16-1,17-1,17-10,17-11,16-12,17-12,17-13,17-15,2-16,3-16,4-16,5-16,6-16,7-16,9-16,2-17,3-17,4-17,5-17,6-17,7-17,8-17,9-17
+
+```{r}
+transaction_volume_by_minute %>%
+  group_by(minute_hour) %>%
+  summarise(n(),sum(count),mean(count),sd(count)) %>%
+  rename(frequency="n()",sum="sum(count)",mean="mean(count)",sd="sd(count)")
+```
+
 
 ```{r}
 transaction_volume_by_minute %>%
