@@ -1,0 +1,33 @@
+---
+title: "Modeling Script"
+output: github_document
+date: "Last Update: July 24, 2024"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Package Loading
+
+```{r}
+library(tidyverse)
+library(forcats)
+library(lazyeval)
+library(ggpubr)
+library(ggridges)
+library(RColorBrewer)
+```
+
+# Data Loading
+
+```{r}
+lca_data <- read.csv("/Users/kenjinchang/github/multimodal-dining-study/data/parent-data/lca-factors.csv")
+```
+
+# Data Cleaning
+
+```{r}
+lca_data
+```
+
