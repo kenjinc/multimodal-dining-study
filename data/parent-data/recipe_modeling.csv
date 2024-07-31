@@ -1,0 +1,144 @@
+﻿station,recipe,ingredient,listed_quantity,volume_weight_conversion,conversion_source,conversion_item,weight_oz,matched_ingredient
+Grill,Grilled Burger,80/20 Beef Patty,5.33 Oz,no,-,-,5.33,Beef
+Grill,Grilled Burger,Ithaca Bakery Large Roll [Butter Grilled Roll],1 Roll,yes,"FDA, Title 21, Volume 2; USDA Nutrient Database for Standard Reference",Amish Roll Butter,7.901,Wheat Bread
+Grill,Grilled Burger,Salted Butter [Butter Grilled Roll],5/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Butter, salted",0.104,Butter
+Grill,Grilled Burger,Kosher Salt [Seasoning Rochester],-,-,-,-,-,-
+Grill,Grilled Burger,Ground Cumin [Seasoning Rochester],-,-,-,-,-,-
+Grill,Grilled Burger,Garlic Powder [Seasoning Rochester],-,-,-,-,-,-
+Grill,Grilled Burger,Dark Chili Powder [Seasoning Rochester],-,-,-,-,-,-
+Grill,Grilled Burger,Black Pepper [Seasoning Rochester],-,-,-,-,-,-
+Grill,Grilled Burger,Extra Heavy Mayonnaise [Assorted Burger Toppings],-,-,-,-,-,-
+Grill,Grilled Burger,Ketchup [Assorted Burger Toppings],-,-,-,-,-,-
+Grill,Grilled Burger,Mustard [Assorted Burger Toppings],-,-,-,-,-,-
+Grill,Grilled Burger,"Canned Chipotle Peppers in Adobo Sauce [Chipotle Lime Spread, Assorted Burger Toppings]",-,-,-,-,-,-
+Grill,Grilled Burger,"Water [Chipotle Lime Spread, Assorted Burger Toppings]",-,-,-,-,-,-
+Grill,Grilled Burger,"Lime Juice [Chipotle Lime Spread, Assorted Burger Toppings]",-,-,-,-,-,-
+Grill,Grilled Burger,"Kosher Salt [Chipotle Lime Spread, Assorted Burger Toppings]",-,-,-,-,-,-
+Grill,Grilled Burger,"Extra Heavy Mayonnaise [Chipotle Lime Spread, Assorted Burger Toppings]",-,-,-,-,-,-
+Grill,Grilled Burger,Sliced Jalapeno [Assorted Burger Toppings],-,-,-,-,-,-
+Grill,Grilled Burger,"Whole Peeled Onion [Sauteed Onions, Assorted Burger Toppings]",2 Oz,no,-,-,2,Onion
+Grill,Grilled Burger,"Canola Oil [Sauteed Onions, Assorted Burger Toppings]",1/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Canola and Soybean Oil,0.02,Sunflower Oil (CAN)
+Grill,Grilled Burger,"Kosher Salt [Sauteed Onions, Assorted Burger Toppings]",Dash (To Taste),-,-,-,-,-
+Grill,Grilled Burger,"Black Pepper [Sauteed Onions, Assorted Burger Toppings]",Dash (To Taste),-,-,-,-,-
+Grill,Grilled Burger,"Canola Oil [Sauteed Mushrooms, Assorted Burger Toppings]",1/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Canola and Soybean Oil,0.02,Sunflower Oil (CAN)
+Grill,Grilled Burger,"Sliced Mushroom [Sauteed Mushrooms, Assorted Burger Toppings]",1.5 Oz,no,-,-,1.5,Mushroom
+Grill,Grilled Burger,"Kosher Salt [Sauteed Mushrooms, Assorted Burger Toppings]",Dash (To Taste),-,-,-,-,-
+Grill,Grilled Burger,"Black Pepper [Sauteed Mushrooms, Assorted Burger Toppings]",Dash (To Taste),-,-,-,-,-
+Grill,Grilled Burger,Green Leaf Lettuce [Assorted Burger Toppings],0.5 Fillet,yes,Nutritionix,"Green Leaf Lettuce (1 cup, shredded)",1.27,Lettuce
+Grill,Grilled Burger,Sliced Tomato [Assorted Burger Toppings] ,1 Slice,yes,Nutritionix,"Tomato - 1 slice, medium (1/4"" thick) from USDA",0.705,Tomato
+Grill,Grilled Burger,Sliced Red Onion [Assorted Burger Toppings],0.5 Rings,yes,Nutritionix,Red Onion (0.1 medium),0.332,Onion
+Grill,Grilled Burger,Sliced Kosher Dill Pickle [Assorted Burger Toppings],4 Slice,-,-,-,-,-
+Grill,Grilled Burger,Sliced White American Cheese [Assorted Burger Toppings],1 Slice,yes,Nutritionix,American Cheese - 1 Slice from USDA,1,Cheddar
+Grill,Grilled Burger,Sliced White Cheddar Cheese [Assorted Burger Toppings],1 Slice,yes,University of Rochester Medical Center,"Cheese, cheddar (1 slice)",1,Cheddar
+Grill,Grilled Burger,Sliced Pepper Jack Cheese [Assorted Burger Toppings],1 Slice,no,Nutritionix,1 Slice Pepper Jack Cheese,1,Cheddar
+Grill,Grilled Burger,Sliced Provolone Cheese [Assorted Burger Toppings],1 Slice,no,University of Rochester Medical Center,"Cheese, provolone (1 slcie)",1,Cheddar
+Grill,Grilled Burger,Crumbled Blue Cheese [Assorted Burger Toppings],3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Cheese, Blue or Roquefort",0.138,Mozzarella
+Grill,Grilled Burger,Daiya Vegan Sliced Cheddar [Assorted Burger Toppings] ,1 Slice,yes,Daiya Foods,Dairy-Free Cheddar Slices,0.776,Daiya Cheddar Slices
+Grill,Grilled Chicken Sandwich,5 Oz Bnls Skinles Chicken Breast,1 5 Oz Breast,no,-,-,5,Chicken
+Grill,Grilled Chicken Sandwich,Ithaca Bakery Large Roll [Butter Grilled Roll],1 Roll,yes,"FDA, Title 21, Volume 2; USDA Nutrient Database for Standard Reference",Amish Roll Butter,7.901,Wheat Bread
+Grill,Grilled Chicken Sandwich,Salted Butter [Butter Grilled Roll],5/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Butter, salted",0.104,Butter
+Grill,Grilled Chicken Sandwich,Kosher Salt [Rochester Seasoning],-,-,-,-,-,-
+Grill,Grilled Chicken Sandwich,Ground Cumin [Rochester Seasoning],-,-,-,-,-,-
+Grill,Grilled Chicken Sandwich,Garlic Powder [Rochester Seasoning],-,-,-,-,-,-
+Grill,Grilled Chicken Sandwich,Dark Chili Powder [Rochester Seasoning],-,-,-,-,-,-
+Grill,Grilled Chicken Sandwich,Black Pepper [Rochester Seasoning],-,-,-,-,-,-
+Grill,Grilled Chicken Sandwich,Extra Heavy Mayonnaise [Assorted Burger Toppings],-,-,-,-,-,-
+Grill,Grilled Chicken Sandwich,Ketchup [Assorted Burger Toppings],-,-,-,-,-,-
+Grill,Grilled Chicken Sandwich,Mustard [Assorted Burger Toppings],-,-,-,-,-,-
+Grill,Grilled Chicken Sandwich,"Canned Chipotle Peppers in Adobo Sauce [Chipotle Lime Spread, Assorted Burger Toppings]",-,-,-,-,-,-
+Grill,Grilled Chicken Sandwich,"Water [Chipotle Lime Spread, Assorted Burger Toppings]",-,-,-,-,-,-
+Grill,Grilled Chicken Sandwich,"Lime Juice [Chipotle Lime Spread, Assorted Burger Toppings]",-,-,-,-,-,-
+Grill,Grilled Chicken Sandwich,"Kosher Salt [Chipotle Lime Spread, Assorted Burger Toppings]",-,-,-,-,-,-
+Grill,Grilled Chicken Sandwich,"Extra Heavy Mayonnaise [Chipotle Lime Spread, Assorted Burger Toppings]",-,-,-,-,-,-
+Grill,Grilled Chicken Sandwich,Sliced Jalapeno [Assorted Burger Toppings],-,-,-,-,-,-
+Grill,Grilled Chicken Sandwich,"Whole Peeled Onion [Sauteed Onions, Assorted Burger Toppings]",2 Oz,no,-,-,2,Onion
+Grill,Grilled Chicken Sandwich,"Canola Oil [Sauteed Onions, Assorted Burger Toppings]",1/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Canola and Soybean Oil,0.02,Sunflower Oil (CAN)
+Grill,Grilled Chicken Sandwich,"Kosher Salt [Sauteed Onions, Assorted Burger Toppings]",Dash (To Taste),-,-,-,-,-
+Grill,Grilled Chicken Sandwich,"Black Pepper [Sauteed Onions, Assorted Burger Toppings]",Dash (To Taste),-,-,-,-,-
+Grill,Grilled Chicken Sandwich,"Canola Oil [Sauteed Mushrooms, Assorted Burger Toppings]",1/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Canola and Soybean Oil,0.02,Sunflower Oil (CAN)
+Grill,Grilled Chicken Sandwich,"Sliced Mushroom [Sauteed Mushrooms, Assorted Burger Toppings]",1.5 Oz,no,-,-,1.5,Mushroom
+Grill,Grilled Chicken Sandwich,"Kosher Salt [Sauteed Mushrooms, Assorted Burger Toppings]",Dash (To Taste),-,-,-,-,-
+Grill,Grilled Chicken Sandwich,"Black Pepper [Sauteed Mushrooms, Assorted Burger Toppings]",Dash (To Taste),-,-,-,-,-
+Grill,Grilled Chicken Sandwich,Green Leaf Lettuce [Assorted Burger Toppings],0.5 Fillet,yes,Nutritionix,"Green Leaf Lettuce (1 cup, shredded)",1.27,Lettuce
+Grill,Grilled Chicken Sandwich,Sliced Tomato [Assorted Burger Toppings] ,1 Slice,yes,Nutritionix,"Tomato - 1 slice, medium (1/4"" thick) from USDA",0.705,Tomato
+Grill,Grilled Chicken Sandwich,Sliced Red Onion [Assorted Burger Toppings],0.5 Rings,yes,Nutritionix,Red Onion (0.1 medium),0.332,Onion
+Grill,Grilled Chicken Sandwich,Sliced Kosher Dill Pickle [Assorted Burger Toppings],4 Slice,-,-,-,-,-
+Grill,Grilled Chicken Sandwich,Sliced White American Cheese [Assorted Burger Toppings],1 Slice,yes,Nutritionix,American Cheese - 1 Slice from USDA,1,Cheddar
+Grill,Grilled Chicken Sandwich,Sliced White Cheddar Cheese [Assorted Burger Toppings],1 Slice,yes,University of Rochester Medical Center,"Cheese, cheddar (1 slice)",1,Cheddar
+Grill,Grilled Chicken Sandwich,Sliced Pepper Jack Cheese [Assorted Burger Toppings],1 Slice,no,Nutritionix,1 Slice Pepper Jack Cheese,1,Cheddar
+Grill,Grilled Chicken Sandwich,Sliced Provolone Cheese [Assorted Burger Toppings],1 Slice,no,University of Rochester Medical Center,"Cheese, provolone (1 slcie)",1,Cheddar
+Grill,Grilled Chicken Sandwich,Crumbled Blue Cheese [Assorted Burger Toppings],3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Cheese, Blue or Roquefort",0.138,Mozzarella
+Grill,Grilled Chicken Sandwich,Daiya Vegan Sliced Cheddar [Assorted Burger Toppings] ,1 Slice,yes,Daiya Foods,Dairy-Free Cheddar Slices,0.776,Daiya Cheddar Slices
+Grill,Grill Trillium Burger Salmon,Salmon Burger Patty,3.2 Oz,no,-,-,3.2,Salmon
+Grill,Grill Trillium Burger Salmon,Ithaca Bakery Large Roll [Butter Grilled Roll],1 Roll,yes,"FDA, Title 21, Volume 2; USDA Nutrient Database for Standard Reference",Amish Roll Butter,7.901,Wheat Bread
+Grill,Grill Trillium Burger Salmon,Salted Butter [Butter Grilled Roll],5/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Butter, salted",0.104,Butter
+Grill,Grill Trillium Burger Salmon,Extra Heavy Mayonnaise [Assorted Burger Toppings],-,-,-,-,-,-
+Grill,Grill Trillium Burger Salmon,Ketchup [Assorted Burger Toppings],-,-,-,-,-,-
+Grill,Grill Trillium Burger Salmon,Mustard [Assorted Burger Toppings],-,-,-,-,-,-
+Grill,Grill Trillium Burger Salmon,"Canned Chipotle Peppers in Adobo Sauce [Chipotle Lime Spread, Assorted Burger Toppings]",-,-,-,-,-,-
+Grill,Grill Trillium Burger Salmon,"Water [Chipotle Lime Spread, Assorted Burger Toppings]",-,-,-,-,-,-
+Grill,Grill Trillium Burger Salmon,"Lime Juice [Chipotle Lime Spread, Assorted Burger Toppings]",-,-,-,-,-,-
+Grill,Grill Trillium Burger Salmon,"Kosher Salt [Chipotle Lime Spread, Assorted Burger Toppings]",-,-,-,-,-,-
+Grill,Grill Trillium Burger Salmon,"Extra Heavy Mayonnaise [Chipotle Lime Spread, Assorted Burger Toppings]",-,-,-,-,-,-
+Grill,Grill Trillium Burger Salmon,Sliced Jalapeno [Assorted Burger Toppings],-,-,-,-,-,-
+Grill,Grill Trillium Burger Salmon,"Whole Peeled Onion [Sauteed Onions, Assorted Burger Toppings]",2 Oz,no,-,-,2,Onion
+Grill,Grill Trillium Burger Salmon,"Canola Oil [Sauteed Onions, Assorted Burger Toppings]",1/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Canola and Soybean Oil,0.02,Sunflower Oil (CAN)
+Grill,Grill Trillium Burger Salmon,"Kosher Salt [Sauteed Onions, Assorted Burger Toppings]",Dash (To Taste),-,-,-,-,-
+Grill,Grill Trillium Burger Salmon,"Black Pepper [Sauteed Onions, Assorted Burger Toppings]",Dash (To Taste),-,-,-,-,-
+Grill,Grill Trillium Burger Salmon,"Canola Oil [Sauteed Mushrooms, Assorted Burger Toppings]",1/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Canola and Soybean Oil,0.02,Sunflower Oil (CAN)
+Grill,Grill Trillium Burger Salmon,"Sliced Mushroom [Sauteed Mushrooms, Assorted Burger Toppings]",1.5 Oz,no,-,-,1.5,Mushroom
+Grill,Grill Trillium Burger Salmon,"Kosher Salt [Sauteed Mushrooms, Assorted Burger Toppings]",Dash (To Taste),-,-,-,-,-
+Grill,Grill Trillium Burger Salmon,"Black Pepper [Sauteed Mushrooms, Assorted Burger Toppings]",Dash (To Taste),-,-,-,-,-
+Grill,Grill Trillium Burger Salmon,Green Leaf Lettuce [Assorted Burger Toppings],0.5 Fillet,yes,Nutritionix,"Green Leaf Lettuce (1 cup, shredded)",1.27,Lettuce
+Grill,Grill Trillium Burger Salmon,Sliced Tomato [Assorted Burger Toppings] ,1 Slice,yes,Nutritionix,"Tomato - 1 slice, medium (1/4"" thick) from USDA",0.705,Tomato
+Grill,Grill Trillium Burger Salmon,Sliced Red Onion [Assorted Burger Toppings],0.5 Rings,yes,Nutritionix,Red Onion (0.1 medium),0.332,Onion
+Grill,Grill Trillium Burger Salmon,Sliced Kosher Dill Pickle [Assorted Burger Toppings],4 Slice,-,-,-,-,-
+Grill,Grill Trillium Burger Salmon,Sliced White American Cheese [Assorted Burger Toppings],1 Slice,yes,Nutritionix,American Cheese - 1 Slice from USDA,1,Cheddar
+Grill,Grill Trillium Burger Salmon,Sliced White Cheddar Cheese [Assorted Burger Toppings],1 Slice,yes,University of Rochester Medical Center,"Cheese, cheddar (1 slice)",1,Cheddar
+Grill,Grill Trillium Burger Salmon,Sliced Pepper Jack Cheese [Assorted Burger Toppings],1 Slice,no,Nutritionix,1 Slice Pepper Jack Cheese,1,Cheddar
+Grill,Grill Trillium Burger Salmon,Sliced Provolone Cheese [Assorted Burger Toppings],1 Slice,no,University of Rochester Medical Center,"Cheese, provolone (1 slcie)",1,Cheddar
+Grill,Grill Trillium Burger Salmon,Crumbled Blue Cheese [Assorted Burger Toppings],3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Cheese, Blue or Roquefort",0.138,Mozzarella
+Grill,Grill Trillium Burger Salmon,Daiya Vegan Sliced Cheddar [Assorted Burger Toppings] ,1 Slice,yes,Daiya Foods,Dairy-Free Cheddar Slices,0.776,Daiya Cheddar Slices
+Grill,Grill Trillium Impossible Burger,"""Impossible Burger"" Patty [Patty ""Impossible Burger"" Trillium]",4 oz,no,-,-,4,Impossible Burger
+Grill,Grill Trillium Impossible Burger,"Kosher Salt [Seasoning Rochester, Patty ""Impossible Burger"" Trillium]",-,-,-,-,-,-
+Grill,Grill Trillium Impossible Burger,"Ground Cumin [Seasoning Rochester, Patty ""Impossible Burger"" Trillium]",-,-,-,-,-,-
+Grill,Grill Trillium Impossible Burger,"Garlic Powder [Seasoning Rochester, Patty ""Impossible Burger"" Trillium]",-,-,-,-,-,-
+Grill,Grill Trillium Impossible Burger,"Dark Chili Powder [Seasoning Rochester, Patty ""Impossible Burger"" Trillium]",-,-,-,-,-,-
+Grill,Grill Trillium Impossible Burger,"Black Pepper [Seasoning Rochester, Patty ""Impossible Burger"" Trillium]",-,-,-,-,-,-
+Grill,Grill Trillium Impossible Burger,Ithaca Bakery Large Roll,1 Roll,yes,"FDA, Title 21, Volume 2; USDA Nutrient Database for Standard Reference",Amish Roll Butter,7.901,Wheat Bread
+Grill,Grill Trillium Impossible Burger,Daiya Vegan Sliced Cheddar,1 Slice,yes,Daiya Foods,Dairy-Free Cheddar Slices,0.776,Daiya Cheddar Slices
+Grill,Grill Trillium Impossible Burger,Extra Heavy Mayonnaise [Assorted Burger Toppings],-,-,-,-,-,-
+Grill,Grill Trillium Impossible Burger,Ketchup [Assorted Burger Toppings],-,-,-,-,-,-
+Grill,Grill Trillium Impossible Burger,Mustard [Assorted Burger Toppings],-,-,-,-,-,-
+Grill,Grill Trillium Impossible Burger,"Canned Chipotle Peppers in Adobo Sauce [Chipotle Lime Spread, Assorted Burger Toppings]",-,-,-,-,-,-
+Grill,Grill Trillium Impossible Burger,"Water [Chipotle Lime Spread, Assorted Burger Toppings]",-,-,-,-,-,-
+Grill,Grill Trillium Impossible Burger,"Lime Juice [Chipotle Lime Spread, Assorted Burger Toppings]",-,-,-,-,-,-
+Grill,Grill Trillium Impossible Burger,"Kosher Salt [Chipotle Lime Spread, Assorted Burger Toppings]",-,-,-,-,-,-
+Grill,Grill Trillium Impossible Burger,"Extra Heavy Mayonnaise [Chipotle Lime Spread, Assorted Burger Toppings]",-,-,-,-,-,-
+Grill,Grill Trillium Impossible Burger,Sliced Jalapeno [Assorted Burger Toppings],-,-,-,-,-,-
+Grill,Grill Trillium Impossible Burger,"Whole Peeled Onion [Sauteed Onions, Assorted Burger Toppings]",2 Oz,no,-,-,2,Onion
+Grill,Grill Trillium Impossible Burger,"Canola Oil [Sauteed Onions, Assorted Burger Toppings]",1/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Canola and Soybean Oil,0.02,Sunflower Oil (CAN)
+Grill,Grill Trillium Impossible Burger,"Kosher Salt [Sauteed Onions, Assorted Burger Toppings]",Dash (To Taste),-,-,-,-,-
+Grill,Grill Trillium Impossible Burger,"Black Pepper [Sauteed Onions, Assorted Burger Toppings]",Dash (To Taste),-,-,-,-,-
+Grill,Grill Trillium Impossible Burger,"Canola Oil [Sauteed Mushrooms, Assorted Burger Toppings]",1/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Canola and Soybean Oil,0.02,Sunflower Oil (CAN)
+Grill,Grill Trillium Impossible Burger,"Sliced Mushroom [Sauteed Mushrooms, Assorted Burger Toppings]",1.5 Oz,no,-,-,1.5,Mushroom
+Grill,Grill Trillium Impossible Burger,"Kosher Salt [Sauteed Mushrooms, Assorted Burger Toppings]",Dash (To Taste),-,-,-,-,-
+Grill,Grill Trillium Impossible Burger,"Black Pepper [Sauteed Mushrooms, Assorted Burger Toppings]",Dash (To Taste),-,-,-,-,-
+Grill,Grill Trillium Impossible Burger,Green Leaf Lettuce [Assorted Burger Toppings],0.5 Fillet,yes,Nutritionix,"Green Leaf Lettuce (1 cup, shredded)",1.27,Lettuce
+Grill,Grill Trillium Impossible Burger,Sliced Tomato [Assorted Burger Toppings] ,1 Slice,yes,Nutritionix,"Tomato - 1 slice, medium (1/4"" thick) from USDA",0.705,Tomato
+Grill,Grill Trillium Impossible Burger,Sliced Red Onion [Assorted Burger Toppings],0.5 Rings,yes,Nutritionix,Red Onion (0.1 medium),0.332,Onion
+Grill,Grill Trillium Impossible Burger,Sliced Kosher Dill Pickle [Assorted Burger Toppings],4 Slice,-,-,-,-,-
+Grill,Grill Trillium Impossible Burger,Sliced White American Cheese [Assorted Burger Toppings],1 Slice,yes,Nutritionix,American Cheese - 1 Slice from USDA,1,Cheddar
+Grill,Grill Trillium Impossible Burger,Sliced White Cheddar Cheese [Assorted Burger Toppings],1 Slice,yes,University of Rochester Medical Center,"Cheese, cheddar (1 slice)",1,Cheddar
+Grill,Grill Trillium Impossible Burger,Sliced Pepper Jack Cheese [Assorted Burger Toppings],1 Slice,no,Nutritionix,1 Slice Pepper Jack Cheese,1,Cheddar
+Grill,Grill Trillium Impossible Burger,Sliced Provolone Cheese [Assorted Burger Toppings],1 Slice,no,University of Rochester Medical Center,"Cheese, provolone (1 slcie)",1,Cheddar
+Grill,Grill Trillium Impossible Burger,Crumbled Blue Cheese [Assorted Burger Toppings],3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Cheese, Blue or Roquefort",0.138,Mozzarella
+Grill,Grill Trillium Impossible Burger,Daiya Vegan Sliced Cheddar [Assorted Burger Toppings] ,1 Slice,yes,Daiya Foods,Dairy-Free Cheddar Slices,0.776,Daiya Cheddar Slices
+Grill,Chicken Tenders Breaded Fried,Breaded Chicken Tender,8 oz,no,-,-,8,Chicken
+Grill,Chicken Tenders Breaded Fried,Canola Oil,1 1/4 oz,no,-,-,1.25,Sunflower Oil (CAN)
+Grill,Fries Potato Coated Trillium,Seasoned Coated French Fries,4 oz,no,-,-,4,Potato Fries
+Grill,Fries Potato Coated Trillium,Canola Oil,-,-,-,-,-,-
+Grill,Fries Potato Coated Trillium,Kosher Salt,-,-,-,-,-,-
+Grill,Fries Sweet Potato Trillium,Sweet Potato Fries,4 oz,no,-,-,4,Sweet Potato Fries
+Grill,Fries Sweet Potato Trillium,Canola Oil,-,-,-,-,-,-
+Grill,Fries Sweet Potato Trillium,Kosher Salt,-,-,-,-,-,-
