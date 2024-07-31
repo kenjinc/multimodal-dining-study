@@ -25,9 +25,49 @@ library(RColorBrewer)
 lca_data <- read.csv("/Users/kenjinchang/github/multimodal-dining-study/data/parent-data/lca-factors.csv")
 ```
 
+```{r}
+recipe_modeling <- read.csv("/Users/kenjinchang/github/multimodal-dining-study/data/parent-data/recipe-modeling.csv",na.strings=c("","NA"))
+```
+
+
 # Data Cleaning
 
 ```{r}
 lca_data
 ```
+
+```{r}
+recipe_modeling
+```
+
+```{r}
+footprint_calculations <- left_join(recipe_modeling,lca_data) %>%
+  select(station,recipe,ingredient,listed_quantity,weight_oz,matched_ingredient,matched_ingredient_source,mean_kg_co2e_per_kg,mean_l_h2o_blue_per_kg,mean_l_h2o_green_per_kg) %>%
+  filter(!is.na(weight_oz)) %>%
+  mutate(weight_kg=weight_oz*0.028349523) %>%
+  mutate(kg_co2e=weight_kg*mean_kg_co2e_per_kg) %>%
+  mutate(l_h2o_blue=weight_kg*mean_l_h2o_blue_per_kg) %>%
+  mutate(l_h2o_green=weight_kg*mean_l_h2o_green_per_kg) %>%
+  mutate(l_h2o_total=l_h2o_blue+l_h2o_green)
+```
+
+```{r}
+footprint_calculations 
+```
+
+
+```{r}
+footprint_calculations %>% group_by(recipe) %>%
+  summarise(sum(kg_co2e))
+```
+
+```{r}
+footprint_calculations %>% group_by(recipe) %>%
+  summarise(sum(l_h2o_blue))
+```
+
+
+
+
+
 
