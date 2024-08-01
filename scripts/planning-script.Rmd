@@ -85,6 +85,15 @@ transaction_volume_by_minute %>%
 ```
 
 ```{r}
+transaction_volume_by_minute %>%
+  group_by(date) %>%
+  summarise(sum(count)) %>%
+  rename(count="sum(count)") %>%
+  summarise(mean(count))
+```
+
+
+```{r}
 volume_by_date <- transaction_volume_by_day %>%
   mutate(day=fct_relevel(day,"Monday","Tuesday","Wednesday","Thursday","Friday")) %>%
   ggplot(aes(x=date_abbrev,y=count,fill=day)) + 
