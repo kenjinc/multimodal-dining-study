@@ -1,379 +1,267 @@
 ﻿station,recipe,ingredient,listed_quantity,volume_weight_conversion,conversion_source,conversion_item,weight_oz,matched_ingredient
-Grill,Grilled Burger,80/20 Beef Patty,5.33 Oz,no,-,-,5.33,Beef
-Grill,Grilled Burger,Ithaca Bakery Large Roll [Butter Grilled Roll],1 Roll,yes,"FDA, Title 21, Volume 2; USDA Nutrient Database for Standard Reference",Amish Roll Butter,7.901,Wheat Bread
-Grill,Grilled Burger,Salted Butter [Butter Grilled Roll],5/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Butter, salted",0.104,Butter
-Grill,Grilled Burger,Kosher Salt [Seasoning Rochester],,,,,,
-Grill,Grilled Burger,Ground Cumin [Seasoning Rochester],,,,,,
-Grill,Grilled Burger,Garlic Powder [Seasoning Rochester],,,,,,
-Grill,Grilled Burger,Dark Chili Powder [Seasoning Rochester],,,,,,
-Grill,Grilled Burger,Black Pepper [Seasoning Rochester],,,,,,
-Grill,Grilled Burger,Extra Heavy Mayonnaise [Assorted Burger Toppings],,,,,,
-Grill,Grilled Burger,Ketchup [Assorted Burger Toppings],,,,,,
-Grill,Grilled Burger,Mustard [Assorted Burger Toppings],,,,,,
-Grill,Grilled Burger,"Canned Chipotle Peppers in Adobo Sauce [Chipotle Lime Spread, Assorted Burger Toppings]",,,,,,
-Grill,Grilled Burger,"Water [Chipotle Lime Spread, Assorted Burger Toppings]",,,,,,
-Grill,Grilled Burger,"Lime Juice [Chipotle Lime Spread, Assorted Burger Toppings]",,,,,,
-Grill,Grilled Burger,"Kosher Salt [Chipotle Lime Spread, Assorted Burger Toppings]",,,,,,
-Grill,Grilled Burger,"Extra Heavy Mayonnaise [Chipotle Lime Spread, Assorted Burger Toppings]",,,,,,
-Grill,Grilled Burger,Sliced Jalapeno [Assorted Burger Toppings],,,,,,
-Grill,Grilled Burger,"Whole Peeled Onion [Sauteed Onions, Assorted Burger Toppings]",2 Oz,no,,,2,Onion
-Grill,Grilled Burger,"Canola Oil [Sauteed Onions, Assorted Burger Toppings]",1/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Canola and Soybean Oil,0.02,Sunflower Oil (CAN)
-Grill,Grilled Burger,"Kosher Salt [Sauteed Onions, Assorted Burger Toppings]",Dash (To Taste),,,,,
-Grill,Grilled Burger,"Black Pepper [Sauteed Onions, Assorted Burger Toppings]",Dash (To Taste),,,,,
-Grill,Grilled Burger,"Canola Oil [Sauteed Mushrooms, Assorted Burger Toppings]",1/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Canola and Soybean Oil,0.02,Sunflower Oil (CAN)
-Grill,Grilled Burger,"Sliced Mushroom [Sauteed Mushrooms, Assorted Burger Toppings]",1.5 Oz,no,,,1.5,Mushroom
-Grill,Grilled Burger,"Kosher Salt [Sauteed Mushrooms, Assorted Burger Toppings]",Dash (To Taste),,,,,
-Grill,Grilled Burger,"Black Pepper [Sauteed Mushrooms, Assorted Burger Toppings]",Dash (To Taste),,,,,
-Grill,Grilled Burger,Green Leaf Lettuce [Assorted Burger Toppings],0.5 Fillet,yes,Nutritionix,"Green Leaf Lettuce (1 cup, shredded)",1.27,Lettuce
-Grill,Grilled Burger,Sliced Tomato [Assorted Burger Toppings] ,1 Slice,yes,Nutritionix,"Tomato - 1 slice, medium (1/4"" thick) from USDA",0.705,Tomato
-Grill,Grilled Burger,Sliced Red Onion [Assorted Burger Toppings],0.5 Rings,yes,Nutritionix,Red Onion (0.1 medium),0.332,Onion
-Grill,Grilled Burger,Sliced Kosher Dill Pickle [Assorted Burger Toppings],4 Slice,,,,,
-Grill,Grilled Burger,Sliced White American Cheese [Assorted Burger Toppings],1 Slice,yes,Nutritionix,American Cheese - 1 Slice from USDA,1,Cheddar
-Grill,Grilled Burger,Sliced White Cheddar Cheese [Assorted Burger Toppings],1 Slice,yes,University of Rochester Medical Center,"Cheese, cheddar (1 slice)",1,Cheddar
-Grill,Grilled Burger,Sliced Pepper Jack Cheese [Assorted Burger Toppings],1 Slice,no,Nutritionix,1 Slice Pepper Jack Cheese,1,Cheddar
-Grill,Grilled Burger,Sliced Provolone Cheese [Assorted Burger Toppings],1 Slice,no,University of Rochester Medical Center,"Cheese, provolone (1 slcie)",1,Cheddar
-Grill,Grilled Burger,Crumbled Blue Cheese [Assorted Burger Toppings],3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Cheese, Blue or Roquefort",0.138,Mozzarella
-Grill,Grilled Burger,Daiya Vegan Sliced Cheddar [Assorted Burger Toppings] ,1 Slice,yes,Daiya Foods,Dairy-Free Cheddar Slices,0.776,Daiya Cheddar Slices
-Grill,Grilled Chicken Sandwich,5 Oz Bnls Skinles Chicken Breast,1 5 Oz Breast,no,,,5,Chicken
-Grill,Grilled Chicken Sandwich,Ithaca Bakery Large Roll [Butter Grilled Roll],1 Roll,yes,"FDA, Title 21, Volume 2; USDA Nutrient Database for Standard Reference",Amish Roll Butter,7.901,Wheat Bread
-Grill,Grilled Chicken Sandwich,Salted Butter [Butter Grilled Roll],5/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Butter, salted",0.104,Butter
-Grill,Grilled Chicken Sandwich,Kosher Salt [Rochester Seasoning],,,,,,
-Grill,Grilled Chicken Sandwich,Ground Cumin [Rochester Seasoning],,,,,,
-Grill,Grilled Chicken Sandwich,Garlic Powder [Rochester Seasoning],,,,,,
-Grill,Grilled Chicken Sandwich,Dark Chili Powder [Rochester Seasoning],,,,,,
-Grill,Grilled Chicken Sandwich,Black Pepper [Rochester Seasoning],,,,,,
-Grill,Grilled Chicken Sandwich,Extra Heavy Mayonnaise [Assorted Burger Toppings],,,,,,
-Grill,Grilled Chicken Sandwich,Ketchup [Assorted Burger Toppings],,,,,,
-Grill,Grilled Chicken Sandwich,Mustard [Assorted Burger Toppings],,,,,,
-Grill,Grilled Chicken Sandwich,"Canned Chipotle Peppers in Adobo Sauce [Chipotle Lime Spread, Assorted Burger Toppings]",,,,,,
-Grill,Grilled Chicken Sandwich,"Water [Chipotle Lime Spread, Assorted Burger Toppings]",,,,,,
-Grill,Grilled Chicken Sandwich,"Lime Juice [Chipotle Lime Spread, Assorted Burger Toppings]",,,,,,
-Grill,Grilled Chicken Sandwich,"Kosher Salt [Chipotle Lime Spread, Assorted Burger Toppings]",,,,,,
-Grill,Grilled Chicken Sandwich,"Extra Heavy Mayonnaise [Chipotle Lime Spread, Assorted Burger Toppings]",,,,,,
-Grill,Grilled Chicken Sandwich,Sliced Jalapeno [Assorted Burger Toppings],,,,,,
-Grill,Grilled Chicken Sandwich,"Whole Peeled Onion [Sauteed Onions, Assorted Burger Toppings]",2 Oz,no,,,2,Onion
-Grill,Grilled Chicken Sandwich,"Canola Oil [Sauteed Onions, Assorted Burger Toppings]",1/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Canola and Soybean Oil,0.02,Sunflower Oil (CAN)
-Grill,Grilled Chicken Sandwich,"Kosher Salt [Sauteed Onions, Assorted Burger Toppings]",Dash (To Taste),,,,,
-Grill,Grilled Chicken Sandwich,"Black Pepper [Sauteed Onions, Assorted Burger Toppings]",Dash (To Taste),,,,,
-Grill,Grilled Chicken Sandwich,"Canola Oil [Sauteed Mushrooms, Assorted Burger Toppings]",1/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Canola and Soybean Oil,0.02,Sunflower Oil (CAN)
-Grill,Grilled Chicken Sandwich,"Sliced Mushroom [Sauteed Mushrooms, Assorted Burger Toppings]",1.5 Oz,no,,,1.5,Mushroom
-Grill,Grilled Chicken Sandwich,"Kosher Salt [Sauteed Mushrooms, Assorted Burger Toppings]",Dash (To Taste),,,,,
-Grill,Grilled Chicken Sandwich,"Black Pepper [Sauteed Mushrooms, Assorted Burger Toppings]",Dash (To Taste),,,,,
-Grill,Grilled Chicken Sandwich,Green Leaf Lettuce [Assorted Burger Toppings],0.5 Fillet,yes,Nutritionix,"Green Leaf Lettuce (1 cup, shredded)",1.27,Lettuce
-Grill,Grilled Chicken Sandwich,Sliced Tomato [Assorted Burger Toppings] ,1 Slice,yes,Nutritionix,"Tomato - 1 slice, medium (1/4"" thick) from USDA",0.705,Tomato
-Grill,Grilled Chicken Sandwich,Sliced Red Onion [Assorted Burger Toppings],0.5 Rings,yes,Nutritionix,Red Onion (0.1 medium),0.332,Onion
-Grill,Grilled Chicken Sandwich,Sliced Kosher Dill Pickle [Assorted Burger Toppings],4 Slice,,,,,
-Grill,Grilled Chicken Sandwich,Sliced White American Cheese [Assorted Burger Toppings],1 Slice,yes,Nutritionix,American Cheese - 1 Slice from USDA,1,Cheddar
-Grill,Grilled Chicken Sandwich,Sliced White Cheddar Cheese [Assorted Burger Toppings],1 Slice,yes,University of Rochester Medical Center,"Cheese, cheddar (1 slice)",1,Cheddar
-Grill,Grilled Chicken Sandwich,Sliced Pepper Jack Cheese [Assorted Burger Toppings],1 Slice,no,Nutritionix,1 Slice Pepper Jack Cheese,1,Cheddar
-Grill,Grilled Chicken Sandwich,Sliced Provolone Cheese [Assorted Burger Toppings],1 Slice,no,University of Rochester Medical Center,"Cheese, provolone (1 slcie)",1,Cheddar
-Grill,Grilled Chicken Sandwich,Crumbled Blue Cheese [Assorted Burger Toppings],3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Cheese, Blue or Roquefort",0.138,Mozzarella
-Grill,Grilled Chicken Sandwich,Daiya Vegan Sliced Cheddar [Assorted Burger Toppings] ,1 Slice,yes,Daiya Foods,Dairy-Free Cheddar Slices,0.776,Daiya Cheddar Slices
-Grill,Grill Trillium Burger Salmon,Salmon Burger Patty,3.2 Oz,no,,,3.2,Salmon
-Grill,Grill Trillium Burger Salmon,Ithaca Bakery Large Roll [Butter Grilled Roll],1 Roll,yes,"FDA, Title 21, Volume 2; USDA Nutrient Database for Standard Reference",Amish Roll Butter,7.901,Wheat Bread
-Grill,Grill Trillium Burger Salmon,Salted Butter [Butter Grilled Roll],5/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Butter, salted",0.104,Butter
-Grill,Grill Trillium Burger Salmon,Extra Heavy Mayonnaise [Assorted Burger Toppings],,,,,,
-Grill,Grill Trillium Burger Salmon,Ketchup [Assorted Burger Toppings],,,,,,
-Grill,Grill Trillium Burger Salmon,Mustard [Assorted Burger Toppings],,,,,,
-Grill,Grill Trillium Burger Salmon,"Canned Chipotle Peppers in Adobo Sauce [Chipotle Lime Spread, Assorted Burger Toppings]",,,,,,
-Grill,Grill Trillium Burger Salmon,"Water [Chipotle Lime Spread, Assorted Burger Toppings]",,,,,,
-Grill,Grill Trillium Burger Salmon,"Lime Juice [Chipotle Lime Spread, Assorted Burger Toppings]",,,,,,
-Grill,Grill Trillium Burger Salmon,"Kosher Salt [Chipotle Lime Spread, Assorted Burger Toppings]",,,,,,
-Grill,Grill Trillium Burger Salmon,"Extra Heavy Mayonnaise [Chipotle Lime Spread, Assorted Burger Toppings]",,,,,,
-Grill,Grill Trillium Burger Salmon,Sliced Jalapeno [Assorted Burger Toppings],,,,,,
-Grill,Grill Trillium Burger Salmon,"Whole Peeled Onion [Sauteed Onions, Assorted Burger Toppings]",2 Oz,no,,,2,Onion
-Grill,Grill Trillium Burger Salmon,"Canola Oil [Sauteed Onions, Assorted Burger Toppings]",1/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Canola and Soybean Oil,0.02,Sunflower Oil (CAN)
-Grill,Grill Trillium Burger Salmon,"Kosher Salt [Sauteed Onions, Assorted Burger Toppings]",Dash (To Taste),,,,,
-Grill,Grill Trillium Burger Salmon,"Black Pepper [Sauteed Onions, Assorted Burger Toppings]",Dash (To Taste),,,,,
-Grill,Grill Trillium Burger Salmon,"Canola Oil [Sauteed Mushrooms, Assorted Burger Toppings]",1/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Canola and Soybean Oil,0.02,Sunflower Oil (CAN)
-Grill,Grill Trillium Burger Salmon,"Sliced Mushroom [Sauteed Mushrooms, Assorted Burger Toppings]",1.5 Oz,no,,,1.5,Mushroom
-Grill,Grill Trillium Burger Salmon,"Kosher Salt [Sauteed Mushrooms, Assorted Burger Toppings]",Dash (To Taste),,,,,
-Grill,Grill Trillium Burger Salmon,"Black Pepper [Sauteed Mushrooms, Assorted Burger Toppings]",Dash (To Taste),,,,,
-Grill,Grill Trillium Burger Salmon,Green Leaf Lettuce [Assorted Burger Toppings],0.5 Fillet,yes,Nutritionix,"Green Leaf Lettuce (1 cup, shredded)",1.27,Lettuce
-Grill,Grill Trillium Burger Salmon,Sliced Tomato [Assorted Burger Toppings] ,1 Slice,yes,Nutritionix,"Tomato - 1 slice, medium (1/4"" thick) from USDA",0.705,Tomato
-Grill,Grill Trillium Burger Salmon,Sliced Red Onion [Assorted Burger Toppings],0.5 Rings,yes,Nutritionix,Red Onion (0.1 medium),0.332,Onion
-Grill,Grill Trillium Burger Salmon,Sliced Kosher Dill Pickle [Assorted Burger Toppings],4 Slice,,,,,
-Grill,Grill Trillium Burger Salmon,Sliced White American Cheese [Assorted Burger Toppings],1 Slice,yes,Nutritionix,American Cheese - 1 Slice from USDA,1,Cheddar
-Grill,Grill Trillium Burger Salmon,Sliced White Cheddar Cheese [Assorted Burger Toppings],1 Slice,yes,University of Rochester Medical Center,"Cheese, cheddar (1 slice)",1,Cheddar
-Grill,Grill Trillium Burger Salmon,Sliced Pepper Jack Cheese [Assorted Burger Toppings],1 Slice,no,Nutritionix,1 Slice Pepper Jack Cheese,1,Cheddar
-Grill,Grill Trillium Burger Salmon,Sliced Provolone Cheese [Assorted Burger Toppings],1 Slice,no,University of Rochester Medical Center,"Cheese, provolone (1 slcie)",1,Cheddar
-Grill,Grill Trillium Burger Salmon,Crumbled Blue Cheese [Assorted Burger Toppings],3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Cheese, Blue or Roquefort",0.138,Mozzarella
-Grill,Grill Trillium Burger Salmon,Daiya Vegan Sliced Cheddar [Assorted Burger Toppings] ,1 Slice,yes,Daiya Foods,Dairy-Free Cheddar Slices,0.776,Daiya Cheddar Slices
-Grill,Grill Trillium Impossible Burger,"""Impossible Burger"" Patty [Patty ""Impossible Burger"" Trillium]",4 Oz,no,,,4,Impossible Burger
-Grill,Grill Trillium Impossible Burger,"Kosher Salt [Seasoning Rochester, Patty ""Impossible Burger"" Trillium]",,,,,,
-Grill,Grill Trillium Impossible Burger,"Ground Cumin [Seasoning Rochester, Patty ""Impossible Burger"" Trillium]",,,,,,
-Grill,Grill Trillium Impossible Burger,"Garlic Powder [Seasoning Rochester, Patty ""Impossible Burger"" Trillium]",,,,,,
-Grill,Grill Trillium Impossible Burger,"Dark Chili Powder [Seasoning Rochester, Patty ""Impossible Burger"" Trillium]",,,,,,
-Grill,Grill Trillium Impossible Burger,"Black Pepper [Seasoning Rochester, Patty ""Impossible Burger"" Trillium]",,,,,,
-Grill,Grill Trillium Impossible Burger,Ithaca Bakery Large Roll,1 Roll,yes,"FDA, Title 21, Volume 2; USDA Nutrient Database for Standard Reference",Amish Roll Butter,7.901,Wheat Bread
-Grill,Grill Trillium Impossible Burger,Daiya Vegan Sliced Cheddar,1 Slice,yes,Daiya Foods,Dairy-Free Cheddar Slices,0.776,Daiya Cheddar Slices
-Grill,Grill Trillium Impossible Burger,Extra Heavy Mayonnaise [Assorted Burger Toppings],,,,,,
-Grill,Grill Trillium Impossible Burger,Ketchup [Assorted Burger Toppings],,,,,,
-Grill,Grill Trillium Impossible Burger,Mustard [Assorted Burger Toppings],,,,,,
-Grill,Grill Trillium Impossible Burger,"Canned Chipotle Peppers in Adobo Sauce [Chipotle Lime Spread, Assorted Burger Toppings]",,,,,,
-Grill,Grill Trillium Impossible Burger,"Water [Chipotle Lime Spread, Assorted Burger Toppings]",,,,,,
-Grill,Grill Trillium Impossible Burger,"Lime Juice [Chipotle Lime Spread, Assorted Burger Toppings]",,,,,,
-Grill,Grill Trillium Impossible Burger,"Kosher Salt [Chipotle Lime Spread, Assorted Burger Toppings]",,,,,,
-Grill,Grill Trillium Impossible Burger,"Extra Heavy Mayonnaise [Chipotle Lime Spread, Assorted Burger Toppings]",,,,,,
-Grill,Grill Trillium Impossible Burger,Sliced Jalapeno [Assorted Burger Toppings],,,,,,
-Grill,Grill Trillium Impossible Burger,"Whole Peeled Onion [Sauteed Onions, Assorted Burger Toppings]",2 Oz,no,,,2,Onion
-Grill,Grill Trillium Impossible Burger,"Canola Oil [Sauteed Onions, Assorted Burger Toppings]",1/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Canola and Soybean Oil,0.02,Sunflower Oil (CAN)
-Grill,Grill Trillium Impossible Burger,"Kosher Salt [Sauteed Onions, Assorted Burger Toppings]",Dash (To Taste),,,,,
-Grill,Grill Trillium Impossible Burger,"Black Pepper [Sauteed Onions, Assorted Burger Toppings]",Dash (To Taste),,,,,
-Grill,Grill Trillium Impossible Burger,"Canola Oil [Sauteed Mushrooms, Assorted Burger Toppings]",1/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Canola and Soybean Oil,0.02,Sunflower Oil (CAN)
-Grill,Grill Trillium Impossible Burger,"Sliced Mushroom [Sauteed Mushrooms, Assorted Burger Toppings]",1.5 Oz,no,,,1.5,Mushroom
-Grill,Grill Trillium Impossible Burger,"Kosher Salt [Sauteed Mushrooms, Assorted Burger Toppings]",Dash (To Taste),,,,,
-Grill,Grill Trillium Impossible Burger,"Black Pepper [Sauteed Mushrooms, Assorted Burger Toppings]",Dash (To Taste),,,,,
-Grill,Grill Trillium Impossible Burger,Green Leaf Lettuce [Assorted Burger Toppings],0.5 Fillet,yes,Nutritionix,"Green Leaf Lettuce (1 cup, shredded)",1.27,Lettuce
-Grill,Grill Trillium Impossible Burger,Sliced Tomato [Assorted Burger Toppings] ,1 Slice,yes,Nutritionix,"Tomato - 1 slice, medium (1/4"" thick) from USDA",0.705,Tomato
-Grill,Grill Trillium Impossible Burger,Sliced Red Onion [Assorted Burger Toppings],0.5 Rings,yes,Nutritionix,Red Onion (0.1 medium),0.332,Onion
-Grill,Grill Trillium Impossible Burger,Sliced Kosher Dill Pickle [Assorted Burger Toppings],4 Slice,,,,,
-Grill,Grill Trillium Impossible Burger,Sliced White American Cheese [Assorted Burger Toppings],1 Slice,yes,Nutritionix,American Cheese - 1 Slice from USDA,1,Cheddar
-Grill,Grill Trillium Impossible Burger,Sliced White Cheddar Cheese [Assorted Burger Toppings],1 Slice,yes,University of Rochester Medical Center,"Cheese, cheddar (1 slice)",1,Cheddar
-Grill,Grill Trillium Impossible Burger,Sliced Pepper Jack Cheese [Assorted Burger Toppings],1 Slice,no,Nutritionix,1 Slice Pepper Jack Cheese,1,Cheddar
-Grill,Grill Trillium Impossible Burger,Sliced Provolone Cheese [Assorted Burger Toppings],1 Slice,no,University of Rochester Medical Center,"Cheese, provolone (1 slcie)",1,Cheddar
-Grill,Grill Trillium Impossible Burger,Crumbled Blue Cheese [Assorted Burger Toppings],3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Cheese, Blue or Roquefort",0.138,Mozzarella
-Grill,Grill Trillium Impossible Burger,Daiya Vegan Sliced Cheddar [Assorted Burger Toppings] ,1 Slice,yes,Daiya Foods,Dairy-Free Cheddar Slices,0.776,Daiya Cheddar Slices
-Grill,Chicken Tenders Breaded Fried,Breaded Chicken Tender,8 Oz,no,,,8,Chicken
-Grill,Chicken Tenders Breaded Fried,Canola Oil,1 1/4 Oz,no,,,1.25,Sunflower Oil (CAN)
-Grill,Fries Potato Coated Trillium,Seasoned Coated French Fries,4 Oz,no,,,4,Potato Fries
-Grill,Fries Potato Coated Trillium,Canola Oil,,,,,,
-Grill,Fries Potato Coated Trillium,Kosher Salt,,,,,,
-Grill,Fries Sweet Potato Trillium,Sweet Potato Fries,4 Oz,no,,,4,Sweet Potato Fries
-Grill,Fries Sweet Potato Trillium,Canola Oil,,,,,,
-Grill,Fries Sweet Potato Trillium,Kosher Salt,,,,,,
-Ramen,Bowl Ramen Chicken Trillium,Japanese Ramen Noodles [Ramen Noodles],4 Oz,no,,,4,Wheat Noodles
-Ramen,Bowl Ramen Chicken Trillium,Water [Ramen Noodles],,,,,,
-Ramen,Bowl Ramen Chicken Trillium,Fresh Peeled Garlic Gloves [Chicken Ramen Broth Trillium],1 Tablespoon + 1 3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Chopped Garlic,0.529,Onion
-Ramen,Bowl Ramen Chicken Trillium,Ginger Root [Chicken Ramen Broth Trillium],,,,,,
-Ramen,Bowl Ramen Chicken Trillium,Gluten Free Tamari Soy Sauce [Chicken Ramen Broth Trillium],,,,,,
-Ramen,Bowl Ramen Chicken Trillium,Canola Oil [Chicken Ramen Broth Trillium],1 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Canola and Soybean Oil,0.16,Sunflower Oil (CAN)
-Ramen,Bowl Ramen Chicken Trillium,Water [Chicken Ramen Broth Trillium],,,,,,
-Ramen,Bowl Ramen Chicken Trillium,Gluten Free Chicken Soup Base [Chicken Ramen Broth Trillium],,,,,,
-Ramen,Bowl Ramen Chicken Trillium,Chicken Thigh Meat Diced Fresh [Marinated Teriyaki Chicken for Ramen],3 1/2 Oz,no,,,3.5,Chicken
-Ramen,Bowl Ramen Chicken Trillium,"Gluten Free Tamari Soy Sauce [Teriyaki Marinade for Chicken Bowl, Chicken Marinated Teriyaki for Ramen]",,,,,,
-Ramen,Bowl Ramen Chicken Trillium,"Apple Cider Vinegar [Teriyaki Marinade for Chicken Bowl, Chicken Marinated Teriyaki for Ramen]",,,,,,
-Ramen,Bowl Ramen Chicken Trillium,"Pineapple Juice [Teriyaki Marinade for Chicken Bowl, Chicken Marinated Teriyaki for Ramen]",,,,,,
-Ramen,Bowl Ramen Chicken Trillium,"Ground Ginger [Teriyaki Marinade for Chicken Bowl, Chicken Marinated Teriyaki for Ramen]",,,,,,
-Ramen,Bowl Ramen Chicken Trillium,"Granulated Garlic [Teriyaki Marinade for Chicken Bowl, Chicken Marinated Teriyaki for Ramen]",,,,,,
-Ramen,Bowl Ramen Chicken Trillium,"Granulated Onion [Teriyaki Marinade for Chicken Bowl, Chicken Marinated Teriyaki for Ramen]",,,,,,
-Ramen,Bowl Ramen Chicken Trillium,"Brown Sugar [Teriyaki Marinade for Chicken Bowl, Chicken Marinated Teriyaki for Ramen]",,,,,,
-Ramen,Bowl Ramen Chicken Trillium,"Water [Teriyaki Marinade for Chicken Bowl, Chicken Marinated Teriyaki for Ramen]",,,,,,
-Ramen,Bowl Ramen Chicken Trillium,Lemon Grass [Spice Blend Tare Vegetarian],,,,,,
-Ramen,Bowl Ramen Chicken Trillium,Fresh Peeled Garlic Cloves [Spice Blend Tare Vegetarian],1/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Chopped Garlic,0.044,Onion
-Ramen,Bowl Ramen Chicken Trillium,Ginger Root [Spice Blend Tare Vegetarian],,,,,,
-Ramen,Bowl Ramen Chicken Trillium,Whole Peeled Onion [Spice Blend Tare Vegetarian],1 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Onions, raw (chopped)",0.118,Onion
-Ramen,Bowl Ramen Chicken Trillium,Green Onion [Spice Blend Tare Vegetarian],7/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Onions, spring or scallions (includes tops and buulb), raw (chopped)",0.064,Onion
-Ramen,Bowl Ramen Chicken Trillium,Fresh Jumbo Carrot [Spice Blend Tare Vegetarian],,,,,,
-Ramen,Bowl Ramen Chicken Trillium,Mirin Wine [Spice Blend Tare Vegetarian],,,,,,
-Ramen,Bowl Ramen Chicken Trillium,Gluten Free Tamri Soy Sauce [Spice Blend Tare Vegetarian],,,,,,
-Ramen,Bowl Ramen Chicken Trillium,Granulated Sugar [Spice Blend Tare Vegetarian],,,,,,
-Ramen,Bowl Ramen Chicken Trillium,Star Anise [Spice Blend Tare Vegetarian],,,,,,
-Ramen,Bowl Ramen Chicken Trillium,Sake Wine Sho Chiko [Spice Blend Tare Vegetarian],,,,,,
-Ramen,Bowl Ramen Chicken Trillium,Water [Spice Blend Tare Vegetarian],,,,,,
-Ramen,Bowl Ramen Chicken Trillium,Green Onion,1 Tablespoon,yes,USDA Nutrient Database for Standard Reference,"Onions, spring or scallions (includes tops and buulb), raw (chopped)",0.22,Onion
-Ramen,Bowl Ramen Chicken Trillium,Frozen Kernel Corn,1 Tablespoon,yes,USDA Nutrient Database for Standard Reference,"Corn, sweet, white, frozen, kernels cut off cob, unprepared",0.364,Sweet Corn
-Ramen,Bowl Ramen Chicken Trillium,Napa Cabbage [Cabbage Sesame Salad],2 Tablespoon + 2 1/2 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Original Napa Cabbage,2.028,Cabbage
-Ramen,Bowl Ramen Chicken Trillium,Fresh Red Cabbage [Cabbage Sesame Salad],1 1/2 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Red cabbage,0.143,Cabbage
-Ramen,Bowl Ramen Chicken Trillium,Carrot Shredded [Cabbage Sesame Salad],5/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Shredded Carrots,0.02,Carrot
-Ramen,Bowl Ramen Chicken Trillium,"Gluten Free Tamar Soy Sauce [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",,,,,,
-Ramen,Bowl Ramen Chicken Trillium,"Seasoned Rice Vinegar [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",,,,,,
-Ramen,Bowl Ramen Chicken Trillium,"Fresh Peeled Garlic Cloves [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",,,,,,
-Ramen,Bowl Ramen Chicken Trillium,"Honey [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",,,,,,
-Ramen,Bowl Ramen Chicken Trillium,"Dijon Mustard [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",,,,,,
-Ramen,Bowl Ramen Chicken Trillium,"Ginger Root [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",,,,,,
-Ramen,Bowl Ramen Chicken Trillium,"Sesame Oil [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",1/2 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Pure Sesame Oil,0.082,Rapeseed Oil
-Ramen,Bowl Ramen Chicken Trillium,"Canola Oil [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",2 7/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Canola and Soybean Oil,0.461,Sunflower Oil (CAN)
-Ramen,Bowl Ramen Chicken Trillium,Egg Whole Fresh Medium Flat [Egg Sous Vide],1 Egg,yes,USDA Nutrient Database for Standard Reference,Medium (M) Egg,1.764,Eggs
-Ramen,Bowl Ramen Chicken Trillium,Water [Egg Sous Vide],,,,,,
-Ramen,Bowl Ramen Chicken Trillium,Nori Seaweed Sheet,,,,,,
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,Ramen Noodle [Tokyo Ramen Noodle],5 Oz,no,,,5,Wheat Noodles
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,Water [Tokyo Ramen Noodle],,,,,,
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,"Whole Peeled Onion [Vegetable Scraps For Stock, Gf Vegetable Soy Broth]",1 Oz,no,,,1,Onion
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,"Celery Stalk Whole Fresh [Vegetable Scraps For Stock, Gf Vegetable Soy Broth]",1 Oz,no,,,1,Celery
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,"Sliced Mushroom [Vegetable Scraps For Stock, Gf Vegetable Soy Broth]",1 Oz,no,,,1,Mushroom
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,"Zucchini Squash [Vegetable Scraps For Stock, Gf Vegetable Soy Broth]",1 Oz,no,,,1,Squash
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,"Eggplant [Vegetable Scraps For Stock, Gf Vegetable Soy Broth]",1 Oz,no,,,1,Eggplant
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,"Cauliflower [Vegetable Scraps For Stock, Gf Vegetable Soy Broth]",1 Oz,no,,,1,Cauliflower
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,"Whole Fresh Tomato [Vegetable Scraps For Stock, Gf Vegetable Soy Broth]",1 Oz,no,,,1,Tomato
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,"Fennel Bulb [Vegetable Scraps For Stock, Gf Vegetable Soy Broth]",1 Oz,no,,,1,Fennel
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,"Broccoli Crown Whole Icelss [Vegetable Scraps For Stock, Gf Vegetable Soy Broth]",1 Oz,no,,,1,Broccoli
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,Fresh Peeled Garlic Cloves [Gf Vegetable Soy Broth],5/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Chopped Garlic,0.11,Onion
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,Ginger Root [Gf Vegetable Soy Broth],,,,,,
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,Star Anise [Gf Vegetable Soy Broth],,,,,,
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,Water [Gf Vegetable Soy Broth],,,,,,
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,Gluten Free Tamari Soy Sauce [Gf Vegetable Soy Broth],,,,,,
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,Granulated Sugar [Gf Vegetable Soy Broth],,,,,,
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,Tofu Silken,2 Oz,no,,,2,Tofu
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,Lemon Grass [Spice Blend Tare Vegetarian],,,,,,
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,Fresh Peeled Garlic Cloves [Spice Blend Tare Vegetarian],1/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Chopped Garlic,0.044,Onion
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,Ginger Root [Spice Blend Tare Vegetarian],,,,,,
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,Whole Peeled Onion [Spice Blend Tare Vegetarian],1 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Onions, raw (chopped)",0.118,Onion
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,Green Onion [Spice Blend Tare Vegetarian],7/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Onions, spring or scallions (includes tops and buulb), raw (chopped)",0.064,Onion
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,Fresh Jumbo Carrot [Spice Blend Tare Vegetarian],,,,,,
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,Mirin Wine [Spice Blend Tare Vegetarian],,,,,,
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,Gluten Free Tamri Soy Sauce [Spice Blend Tare Vegetarian],,,,,,
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,Granulated Sugar [Spice Blend Tare Vegetarian],,,,,,
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,Star Anise [Spice Blend Tare Vegetarian],,,,,,
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,Sake Wine Sho Chiko [Spice Blend Tare Vegetarian],,,,,,
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,Water [Spice Blend Tare Vegetarian],,,,,,
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,Green Onion,1 Tablespoon,yes,USDA Nutrient Database for Standard Reference,"Onions, spring or scallions (includes tops and buulb), raw (chopped)",0.22,Onion
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,Frozen Kernel Corn,1 Tablespoon,yes,USDA Nutrient Database for Standard Reference,"Corn, sweet, white, frozen, kernels cut off cob, unprepared",0.364,Sweet Corn
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,Napa Cabbage [Cabbage Sesame Salad],2 Tablespoon + 2 1/2 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Original Napa Cabbage,2.028,Cabbage
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,Fresh Red Cabbage [Cabbage Sesame Salad],1 1/2 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Red cabbage,0.143,Cabbage
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,Carrot Shredded [Cabbage Sesame Salad],5/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Shredded Carrots,0.02,Carrot
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,"Gluten Free Tamar Soy Sauce [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",,,,,,
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,"Seasoned Rice Vinegar [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",,,,,,
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,"Fresh Peeled Garlic Cloves [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",,,,,,
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,"Honey [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",,,,,,
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,"Dijon Mustard [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",,,,,,
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,"Ginger Root [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",,,,,,
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,"Sesame Oil [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",1/2 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Pure Sesame Oil,0.082,Rapeseed Oil
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,"Canola Oil [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",2 7/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Canola and Soybean Oil,0.461,Sunflower Oil (CAN)
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,Egg Whole Fresh Medium Flat [Egg Sous Vide],1 Egg,yes,USDA Nutrient Database for Standard Reference,Medium (M) Egg,1.764,Eggs
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,Water [Egg Sous Vide],,,,,,
-Ramen,Bowl Vegetable Tofu Ramen Trillium ,Nori Seaweed Sheet,,,,,,
-Pasta,,"Salted Butter [Alfredo Sauce, Trillium Pasta Station Sauce Options]",1 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Butter, salted",0.167,Butter
-Pasta,,"Fresh Peeled Garlic Cloves [Alfredo Sauce, Trillium Pasta Station Sauce Options]",1/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Chopped Garlic,0.022,Onion
-Pasta,,"All Purpose Flour [Alfredo Sauce, Trillium Pasta Station Sauce Options]",1 3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,All-Purpose Flour,0.154,Wheat Flour
-Pasta,,"Cornell 2% Milk [Alfredo Sauce, Trillium Pasta Station Sauce Options]",3 Tablespoon + 2 1/2 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Milk, Reduced Fat (2%)",2.062,2% Milk
-Pasta,,"Heavy Cream [Alfredo Sauce, Trillium Pasta Station Sauce Options]",1 Tablespoon + 3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Cream, heavy, fluid",0.656,Cream (Heavy)
-Pasta,,"Grated Parmesan Cheese [Alfredo Sauce, Trillium Pasta Station Sauce Options]",1 Tablespoon + 2 1/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Cheese, parmesan, grated",0.386,Parmesan
-Pasta,,"Kosher Salt [Alfredo Sauce, Trillium Pasta Station Sauce Options]",,,,,,
-Pasta,,"Black Pepper [Alfredo Sauce, Trillium Pasta Station Sauce Options]",,,,,,
-Pasta,,"Fresh Flat Leaf Parsley [Alfredo Sauce, Trillium Pasta Station Sauce Options]",1/4 Teaspoon,yes,,,,Fennel
-,,,,,,,,
-Pasta,,"Salted Butter [Alfredo Sauce, Creamy Spinach Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",1 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Butter, salted",0.167,Butter
-Pasta,,"Fresh Peeled Garlic Cloves [Alfredo Sauce, Creamy Spinach Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",1/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Chopped Garlic,0.022,Onion
-Pasta,,"All Purpose Flour [Alfredo Sauce, Creamy Spinach Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",1 3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,All-Purpose Flour,0.154,Wheat Flour
-Pasta,,"Cornell 2% Milk [Alfredo Sauce, Creamy Spinach Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",3 Tablespoon + 2 1/2 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Milk, Reduced Fat (2%)",2.062,2% Milk
-Pasta,,"Heavy Cream [Alfredo Sauce, Creamy Spinach Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",1 Tablespoon + 3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Cream, heavy, fluid",0.656,Cream (Heavy)
-Pasta,,"Grated Parmesan Cheese [Alfredo Sauce, Creamy Spinach Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",1 Tablespoon + 2 1/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Cheese, parmesan, grated",0.386,Parmesan
-Pasta,,"Kosher Salt [Alfredo Sauce, Creamy Spinach Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",,,,,,
-Pasta,,"Black Pepper [Alfredo Sauce, Creamy Spinach Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",,,,,,
-Pasta,,"Fresh Flat Leaf Parlsey [Alfredo Sauce, Creamy Spinach Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",1/4 Teaspoon,yes,,,,Fennel
-Pasta,,"Canola Oil [Sauteed Spinach, Creamy Spinach Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",,,,,,
-Pasta,,"Spinach [Sauteed Spinach, Creamy Spinach Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",1 3/4 Teaspoon,yes,,,,Lettuce
-Pasta,,"Kosher Salt [Sauteed Spinach, Creamy Spinach Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",,,,,,
-Pasta,,"Black Pepper [Sauteed Spinach, Creamy Spinach Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",,,,,,
-,,,,,,,,
-Pasta,,"Extra Virgin Olive Oil [Marinara Pasta Sauce, Trillium Pasta Station Sauce]",1/2 Teaspoon,yes,,,,Olive Oil
-Pasta,,"Fresh Peeled Garlic Cloves [Marinara Pasta Sauce, Trillium Pasta Station Sauce]",1/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Chopped Garlic,0.022,Onion
-Pasta,,"Fresh Basil [Marinara Pasta Sauce, Trillium Pasta Station Sauce]",1/8 Teaspoon,yes,,,,Fennel
-Pasta,,"Piancone Canned Ground Tomatoes [Marinara Pasta Sauce, Trillium Pasta Station Sauce]",#10 Can,yes,,,,Tomato
-Pasta,,"Black Pepper [Marinara Pasta Sauce, Trillium Pasta Station Sauce]",,,,,,
-Pasta,,"Crushed Red Pepper Flakes [Marinara Pasta Sauce, Trillium Pasta Station Sauce]",,,,,,
-Pasta,,"Fresh Rosemary [Marinara Pasta Sauce, Trillium Pasta Station Sauce]",,,,,,
-Pasta,,"Fresh Thyme [Marinara Pasta Sauce, Trillium Pasta Station Sauce]",,,,,,
-Pasta,,"Granulated Sugar [Marinara Pasta Sauce, Trillium Pasta Station Sauce]",,,,,,
-Pasta,,"Kosher Salt [Marinara Pasta Sauce, Trillium Pasta Station Sauce]",,,,,,
-,,,,,,,,
-Pasta,,"Salted Butter [Alfredo Sauce, Creamy Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",1 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Butter, salted",0.167,Butter
-Pasta,,"Fresh Peeled Garlic Cloves [Alfredo Sauce, Creamy Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",1/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Chopped Garlic,0.022,Onion
-Pasta,,"All Purpose Flour [Alfredo Sauce, Creamy Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",1 3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,All-Purpose Flour,0.154,Wheat Flour
-Pasta,,"Cornell 2% Milk [Alfredo Sauce, Creamy Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",3 Tablespoon + 2 1/2 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Milk, Reduced Fat (2%)",2.062,2% Milk
-Pasta,,"Heavy Cream [Alfredo Sauce, Creamy Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",1 Tablespoon + 3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Cream, heavy, fluid",0.656,Cream (Heavy)
-Pasta,,"Grated Parmesan Cheese [Alfredo Sauce, Creamy Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",1 Tablespoon + 2 1/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Cheese, parmesan, grated",0.386,Parmesan
-Pasta,,"Kosher Salt [Alfredo Sauce, Creamy Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",,,,,,
-Pasta,,"Black Pepper [Alfredo Sauce, Creamy Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",,,,,,
-Pasta,,"Fresh Flat Leaf Parsley [Alfredo Sauce, Creamy Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",1/4 Teaspoon,yes,,,,Fennel
-Pasta,,"Nut Free Basil Pesto Sauce [Creamy Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",2 1/2 Teaspoon,yes,,,,?
-,,,,,,,,
-Pasta,,"Salted Butter [Alfredo Sauce, Creamy Sun Dried Tomato Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",1 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Butter, salted",0.167,Butter
-Pasta,,"Fresh Peeled Garlic Cloves [Alfredo Sauce, Creamy Sun Dried Tomato Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",1/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Chopped Garlic,0.022,Onion
-Pasta,,"All Purpose Flour [Alfredo Sauce, Creamy Sun Dried Tomato Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",1 3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,All-Purpose Flour,0.154,Wheat Flour
-Pasta,,"Cornell 2% Milk [Alfredo Sauce, Creamy Sun Dried Tomato Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",3 Tablespoon + 2 1/2 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Milk, Reduced Fat (2%)",2.062,2% Milk
-Pasta,,"Heavy Cream [Alfredo Sauce, Creamy Sun Dried Tomato Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",1 Tablespoon + 3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Cream, heavy, fluid",0.656,Cream (Heavy)
-Pasta,,"Grated Parmesan Cheese [Alfredo Sauce, Creamy Sun Dried Tomato Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",1 Tablespoon + 2 1/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Cheese, parmesan, grated",0.386,Parmesan
-Pasta,,"Kosher Salt [Alfredo Sauce, Creamy Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",,,,,,
-Pasta,,"Black Pepper [Alfredo Sauce, Creamy Sun Dried Tomato Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",,,,,,
-Pasta,,"Fresh Flat Leaf Parsley [Alfredo Sauce, Creamy Sun Dried Tomato Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",1/4 Teaspoon,yes,,,,Fennel
-Pasta,,"Sun Dried Tomato Pesto [Creamy Sun Dried Tomato Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",1 Tablespoon + 3/4 Teaspoon,yes,,,,?
-,,,,,,,,
-Pasta,,"Salted Butter [Alfredo Sauce, Creamy Red Pepper Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",1 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Butter, salted",0.167,Butter
-Pasta,,"Fresh Peeled Garlic Cloves [Alfredo Sauce, Creamy Red Pepper Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",1/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Chopped Garlic,0.022,Onion
-Pasta,,"All Purpose Flour [Alfredo Sauce, Creamy Red Pepper Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",1 3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,All-Purpose Flour,0.154,Wheat Flour
-Pasta,,"Cornell 2% Milk [Alfredo Sauce, Creamy Red Pepper Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",3 Tablespoon + 2 1/2 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Milk, Reduced Fat (2%)",2.062,2% Milk
-Pasta,,"Heavy Cream [Alfredo Sauce, Creamy Red Pepper Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",1 Tablespoon + 3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Cream, heavy, fluid",0.656,Cream (Heavy)
-Pasta,,"Grated Parmesan Cheese [Alfredo Sauce, Creamy Red Pepper Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",1 Tablespoon + 2 1/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Cheese, parmesan, grated",0.386,Parmesan
-Pasta,,"Kosher Salt [Alfredo Sauce, Creamy Red Pepper Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",,,,,,
-Pasta,,"Black Pepper [Alfredo Sauce, Creamy Red Pepper Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",,,,,,
-Pasta,,"Fresh Flat Leaf Parsley [Alfredo Sauce, Creamy Red Pepper Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",1/4 Teaspoon,yes,,,,Fennel
-Pasta,,"Roasted Red Peppers [Creamy Red Pepper Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",1 Tablespoon + 3/4 Teaspoon,yes,,,,Bell Pepper
-,,,,,,,,
-Pasta,,"Kosher Salt [Whole Grain Penne Pasta, Trillium Pasta Station Pasta Options]",,,,,,
-Pasta,,"Water [Whole Grain Penne Pasta, Trillium Pasta Station Pasta Options]",,,,,,
-Pasta,,"Whole Grain Penne Pasta [Whole Grain Penne Pasta, Trillium Pasta Station Pasta Options]",2 Oz,no,,,2,Wheat Noodles
-Pasta,,"Canola Oil [Whole Grain Penne Pasta, Trillium Pasta Station Pasta Options]",1/4 Teaspoon,yes,,,,Sunflower Oil (CAN)
-,,,,,,,,
-Pasta,,"Kosher Salt [Linguine Pasta, Trillium Pasta Station Pasta Options]",,,,,,
-Pasta,,"Water [Linguine Pasta, Trillium Pasta Station Pasta Options]",,,,,,
-Pasta,,"Linguine Pasta [Linguine Pasta, Trillium Pasta Station Pasta Options]",2 Oz,no,,,2,Wheat Noodles
-Pasta,,"Canola Oil [Linguine Pasta, Trillium Pasta Station Pasta Options]",1/4 Teaspoon,yes,,,,Sunflower Oil (CAN)
-,,,,,,,,
-Pasta,,"Broccoli [Sauteed Broccoli, Trillium Pasta Station Veggies Options]",2 Tablespoon + 1/2 Teaspoon,yes,,,,Broccoli
-Pasta,,"Canola Oil [Sauteed Broccoli, Trillium Pasta Station Veggies Options]",1/8 Teaspoon,yes,,,,Sunflower Oil (CAN)
-Pasta,,"Kosher Salt [Granulated Garlic, Salt, & Pepper Blend, Sauteed Broccoli, Trillium Pasta Station Veggies Options]",,,,,,
-Pasta,,"Black Pepper [Granulated Garlic, Salt, & Pepper Blend, Sauteed Broccoli, Trillium Pasta Station Veggies Options]",,,,,,
-Pasta,,"Garlic Powder [Granulated Garlic, Salt, & Pepper Blend, Sauteed Broccoli, Trillium Pasta Station Veggies Options]",,,,,,
-,,,,,,,,
-Pasta,,"Heirloom Cherry Tomato [Roasted Cherry Tomatoes, Trillium Pasta Station Veggies Options]",12/1 Pt,yes,,,,Tomato
-Pasta,,"Cherry Tomato [Roasted Cherry Tomatoes, Trillium Pasta Station Veggies Options]",12/1 Pt,yes,,,,Tomato
-Pasta,,"Pomace Olive Oil [Roasted Cherry Tomatoes, Trillium Pasta Station Veggies Options]",1/2 Teaspoon,yes,,,,Olive Oil
-Pasta,,"Dried Basil [Roasted Cherry Tomatoes, Trillium Pasta Station Veggies Options]",,,,,,
-Pasta,,"Dried Oregano [Roasted Cherry Tomatoes, Trillium Pasta Station Veggies Options]",,,,,,
-Pasta,,"Kosher Salt [Roasted Cherry Tomatoes, Trillium Pasta Station Veggies Options]",,,,,,
-Pasta,,"Black Pepper [Roasted Cherry Tomatoes, Trillium Pasta Station Veggies Options]",,,,,,
-,,,,,,,,
-Pasta,,"Sliced Mushroom [Sauteed Mushrooms, Trillium Pasta Station Veggies Options]",1 1/2 Oz,no,,,1.5,Mushroom
-Pasta,,"Kosher Salt [Granulated Garlic, Salt, & Pepper Blend, Sauteed Mushrooms, Trillium Pasta Station Veggies Options]",,,,,,
-Pasta,,"Black Pepper [Granulated Garlic, Salt, & Pepper Blend, Sauteed Mushrooms, Trillium Pasta Station Veggies Options]",,,,,,
-Pasta,,"Garlic Powder [Granulated Garlic, Salt, & Pepper Blend, Sauteed Mushrooms, Trillium Pasta Station Veggies Options]",,,,,,
-Pasta,,"Canola Oil [Sauteed Mushrooms, Trillium Pasta Station Veggies Options]",1/2 Teaspoon,yes,,,,Sunflower Oil (CAN)
-,,,,,,,,
-Pasta,,"Queen Green Olive Pieces [Olive & Caper Topping, Trillium Pasta Station Veggies Options]",2 Tablespoon + 1 3/4 Teaspoon,yes,,,,Olives
-Pasta,,"Capers [Olive & Caper Topping, Trillium Pasta Station Veggies Options]",1 Tablespoon + 3/4 Teaspoon,yes,,,,Olives
-Pasta,,"Kalamata Olives [Olive & Caper Topping, Trillium Pasta Station Veggies Options]",2 Tablespoon + 1 3/4 Teaspoon,yes,,,,Olives
-,,,,,,,,
-Pasta,,"Whole Peeled Onion [Sauteed Onions, Trillium Pasta Station Veggies Options]",1 Lb,no,,,16,Onion
-Pasta,,"Canola Oil [Sauteed Onions, Trillium Pasta Station Veggies Options]",1/2 Teaspoon,yes,,,,Sunflower Oil (CAN)
-Pasta,,"Kosher Salt [Granulated Garlic, Salt, & Pepper Blend, Sauteed Onions, Trillium Pasta Station Veggies Options]",,,,,,
-Pasta,,"Black Pepper [Granulated Garlic, Salt, & Pepper Blend, Sauteed Onions, Trillium Pasta Station Veggies Options]",,,,,,
-Pasta,,"Garlic Powder [Granulated Garlic, Salt, & Pepper Blend, Sauteed Onions, Trillium Pasta Station Veggies Options]",,,,,,
-,,,,,,,,
-Pasta,,"Yellow Bell Pepper [Sauteed Pepper Medley, Trillium Pasta Station Veggies Options]",1 Tablespoon + 3/4 Teaspoon,yes,,,,Bell Pepper
-Pasta,,"Red Bell Peppers [Sauteed Pepper Medley, Trillium Pasta Station Veggies Options]",2 1/2 Teaspoon,yes,,,,Bell Pepper
-Pasta,,"Green Bell Peppers [Sauteed Pepper Medley, Trillium Pasta Station Veggies Options]",1 Teaspoon,yes,,,,Bell Pepper
-Pasta,,"Canola Oil [Sauteed Pepper Medley, Trillium Pasta Station Veggies Options]",1/4 Teaspoon,yes,,,,Sunflower Oil (CAN)
-Pasta,,"Kosher Salt [Granulated Garlic, Salt, & Pepper Blend, Sauteed Pepper Medley, Trillium Pasta Station Veggies Options]",,,,,,
-Pasta,,"Black Pepper [Granulated Garlic, Salt, & Pepper Blend, Sauteed Pepper Medley, Trillium Pasta Station Veggies Options]",,,,,,
-Pasta,,"Garlic Powder [Granulated Garlic, Salt, & Pepper Blend, Sauteed Pepper Medley, Trillium Pasta Station Veggies Options]",,,,,,
-,,,,,,,,
-Pasta,,"Canola Oil [Sauteed Zucchini & Summer Squash, Trillium Pasta Station Veggies Options]",1/8 Teaspoon,yes,,,,Squash
-Pasta,,"Yellow Summer Squash [Sauteed Zucchini & Summer Squash, Trillium Pasta Station Veggies Options]",1 Tablespoon + 1/4 Teaspoon,yes,,,,Squash
-Pasta,,"Zucchini Squash [Sauteed Zucchini & Summer Squash, Trillium Pasta Station Veggies Options]",2 Tablespoon + 3/4 Teaspoon,yes,,,,Squash
-Pasta,,"Kosher Salt [Granulated Garlic, Salt, & Pepper Blend, Sauteed Zucchini & Summer Squash, Trillium Pasta Station Veggies Options]",,,,,,
-Pasta,,"Black Pepper [Granulated Garlic, Salt, & Pepper Blend, Sauteed Zucchini & Summer Squash, Trillium Pasta Station Veggies Options]",,,,,,
-Pasta,,"Garlic Powder [Granulated Garlic, Salt, & Pepper Blend, Sauteed Zucchini & Summer Squash, Trillium Pasta Station Veggies Options]",,,,,,
-,,,,,,,,
-Pasta,,"Sweet Italian Pork Sausage Links [Mild Italian Sausage, Trillium Pasta Station Meat Options]",1 1/2 Oz,no,,,1.5,Sausage
-,,,,,,,,
-Pasta,,"Hot Italian Pork Sausage Links [Hot Italian Sausage, Trillium Pasta Station Meat Options]",1 1/2 Oz ,no,,,1.5,Sausage
-,,,,,,,,
-Pasta,,"Pork & Beef Meatball [Italian Style Meatballs, Trillium Pasta Station Meat Options]",1 1/2 Oz,no,,,1.5,Beef
-,,,,,,,,
-Pasta,,"Chicken Breast Bnls Skls 4 Oz Fzn lqf [Grilled Chicken, Trillium Pasta Station Meat Options]",4 Oz,no,,,4,Chicken
-Pasta,,"Canola Oil [Grilled Chicken, Trillium Pasta Station Meat Options]",1/8 Teaspoon,yes,,,,Sunflower Oil (CAN)
-Pasta,,"Kosher Salt [Granulated Garlic, Salt, & Pepper Blend, Grilled Chicken, Trillium Pasta Station Veggies Options]",,,,,,
-Pasta,,"Black Pepper [Granulated Garlic, Salt, & Pepper Blend, Grilled Chicken, Trillium Pasta Station Veggies Options]",,,,,,
-Pasta,,"Garlic Powder [Granulated Garlic, Salt, & Pepper Blend, Grilled Chicken, Trillium Pasta Station Veggies Options]",,,,,,
-,,,,,,,,
-Pasta,,"Homestyle Breaded Chicken Breast [Breaded Chicken Breast, Trillium Pasta Station Meat Options]",3.5 Oz,no,,,3.5,Chicken
-,,,,,,,,
-Pasta,,"Shredded Parmesan Cheese [Parmesan Cheese, Trillium Pasta Station Cheese Options]",2 1/4 Teaspoon,yes,,,,Parmesan
-,,,,,,,,
-Pasta,,"Asiago Cheese [Asiago Cheese, Trillium Pasta Station Cheese Options]",1 Tablespoon,yes,,,,Parmesan
-,,,,,,,,
-Pasta,,Parbaked Garlic Breadstick [Breadstick],1.75 Oz,no,,,1.75,Wheat Bread
-,,,,,,,,
-Pasta,,Fresh Flat Leaf Parsley,0.1 Oz,no,,,0.1,Fennel
+Grill,[CYO Grill Component] Burger,80/20 Beef Patty,5.33 Oz,no,,,5.33,Beef
+Grill,[CYO Grill Component] Burger,Ithaca Bakery Large Roll [Butter Grilled Roll],1 Roll,yes,"FDA, Title 21, Volume 2; USDA Nutrient Database for Standard Reference",Amish Roll Butter,7.901,Wheat Bread
+Grill,[CYO Grill Component] Burger,Salted Butter [Butter Grilled Roll],5/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Butter, salted",0.104,Butter
+Grill,[CYO Grill Component] Burger,Kosher Salt [Seasoning Rochester],,,,,,
+Grill,[CYO Grill Component] Burger,Ground Cumin [Seasoning Rochester],,,,,,
+Grill,[CYO Grill Component] Burger,Garlic Powder [Seasoning Rochester],,,,,,
+Grill,[CYO Grill Component] Burger,Dark Chili Powder [Seasoning Rochester],,,,,,
+Grill,[CYO Grill Component] Burger,Black Pepper [Seasoning Rochester],,,,,,
+Grill,[CYO Grill Component] Chicken Sandwich,5 Oz Bnls Skinles Chicken Breast,1 5 Oz Breast,no,,,5,Chicken
+Grill,[CYO Grill Component] Chicken Sandwich,Ithaca Bakery Large Roll [Butter Grilled Roll],1 Roll,yes,"FDA, Title 21, Volume 2; USDA Nutrient Database for Standard Reference",Amish Roll Butter,7.901,Wheat Bread
+Grill,[CYO Grill Component] Chicken Sandwich,Salted Butter [Butter Grilled Roll],5/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Butter, salted",0.104,Butter
+Grill,[CYO Grill Component] Chicken Sandwich,Kosher Salt [Rochester Seasoning],,,,,,
+Grill,[CYO Grill Component] Chicken Sandwich,Ground Cumin [Rochester Seasoning],,,,,,
+Grill,[CYO Grill Component] Chicken Sandwich,Garlic Powder [Rochester Seasoning],,,,,,
+Grill,[CYO Grill Component] Chicken Sandwich,Dark Chili Powder [Rochester Seasoning],,,,,,
+Grill,[CYO Grill Component] Chicken Sandwich,Black Pepper [Rochester Seasoning],,,,,,
+Grill,[CYO Grill Component] Salmon Burger,Salmon Burger Patty,3.2 Oz,no,,,3.2,Salmon
+Grill,[CYO Grill Component] Salmon Burger,Ithaca Bakery Large Roll [Butter Grilled Roll],1 Roll,yes,"FDA, Title 21, Volume 2; USDA Nutrient Database for Standard Reference",Amish Roll Butter,7.901,Wheat Bread
+Grill,[CYO Grill Component] Salmon Burger,Salted Butter [Butter Grilled Roll],5/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Butter, salted",0.104,Butter
+Grill,[CYO Grill Component] Impossible Burger,"""Impossible Burger"" Patty [Patty ""Impossible Burger"" Trillium]",4 Oz,no,,,4,Impossible Burger
+Grill,[CYO Grill Component] Impossible Burger,"Kosher Salt [Seasoning Rochester, Patty ""Impossible Burger"" Trillium]",,,,,,
+Grill,[CYO Grill Component] Impossible Burger,"Ground Cumin [Seasoning Rochester, Patty ""Impossible Burger"" Trillium]",,,,,,
+Grill,[CYO Grill Component] Impossible Burger,"Garlic Powder [Seasoning Rochester, Patty ""Impossible Burger"" Trillium]",,,,,,
+Grill,[CYO Grill Component] Impossible Burger,"Dark Chili Powder [Seasoning Rochester, Patty ""Impossible Burger"" Trillium]",,,,,,
+Grill,[CYO Grill Component] Impossible Burger,"Black Pepper [Seasoning Rochester, Patty ""Impossible Burger"" Trillium]",,,,,,
+Grill,[CYO Grill Component] Impossible Burger,Ithaca Bakery Large Roll,1 Roll,yes,"FDA, Title 21, Volume 2; USDA Nutrient Database for Standard Reference",Amish Roll Butter,7.901,Wheat Bread
+Grill,[CYO Grill Component] Impossible Burger,Daiya Vegan Sliced Cheddar,1 Slice,yes,Daiya Foods,Dairy-Free Cheddar Slices,0.776,Daiya Cheddar Slices
+Grill,"[CYO Grill Component] Toppings, Mayonnasie",Extra Heavy Mayonnaise [Assorted Burger Toppings],,,,,,
+Grill,"[CYO Grill Component] Toppings, Ketchup",Ketchup [Assorted Burger Toppings],,,,,,
+Grill,"[CYO Grill Component] Toppings, Mustard",Mustard [Assorted Burger Toppings],,,,,,
+Grill,"[CYO Grill Component] Toppings, Chipotle Lime Spread","Canned Chipotle Peppers in Adobo Sauce [Chipotle Lime Spread, Assorted Burger Toppings]",,,,,,
+Grill,"[CYO Grill Component] Toppings, Chipotle Lime Spread","Water [Chipotle Lime Spread, Assorted Burger Toppings]",,,,,,
+Grill,"[CYO Grill Component] Toppings, Chipotle Lime Spread","Lime Juice [Chipotle Lime Spread, Assorted Burger Toppings]",,,,,,
+Grill,"[CYO Grill Component] Toppings, Chipotle Lime Spread","Kosher Salt [Chipotle Lime Spread, Assorted Burger Toppings]",,,,,,
+Grill,"[CYO Grill Component] Toppings, Chipotle Lime Spread","Extra Heavy Mayonnaise [Chipotle Lime Spread, Assorted Burger Toppings]",,,,,,
+Grill,"[CYO Grill Component] Toppings, Sliced Jalapeno",Sliced Jalapeno [Assorted Burger Toppings],,,,,,
+Grill,"[CYO Grill Component] Toppings, Sauteed Onions","Whole Peeled Onion [Sauteed Onions, Assorted Burger Toppings]",2 Oz,no,,,2,Onion
+Grill,"[CYO Grill Component] Toppings, Sauteed Onions","Canola Oil [Sauteed Onions, Assorted Burger Toppings]",1/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Canola and Soybean Oil,0.02,Sunflower Oil (CAN)
+Grill,"[CYO Grill Component] Toppings, Sauteed Onions","Kosher Salt [Sauteed Onions, Assorted Burger Toppings]",Dash (To Taste),,,,,
+Grill,"[CYO Grill Component] Toppings, Sauteed Onions","Black Pepper [Sauteed Onions, Assorted Burger Toppings]",Dash (To Taste),,,,,
+Grill,"[CYO Grill Component] Toppings, Sauteed Mushrooms","Canola Oil [Sauteed Mushrooms, Assorted Burger Toppings]",1/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Canola and Soybean Oil,0.02,Sunflower Oil (CAN)
+Grill,"[CYO Grill Component] Toppings, Sauteed Mushrooms","Sliced Mushroom [Sauteed Mushrooms, Assorted Burger Toppings]",1.5 Oz,no,,,1.5,Mushroom
+Grill,"[CYO Grill Component] Toppings, Sauteed Mushrooms","Kosher Salt [Sauteed Mushrooms, Assorted Burger Toppings]",Dash (To Taste),,,,,
+Grill,"[CYO Grill Component] Toppings, Sauteed Mushrooms","Black Pepper [Sauteed Mushrooms, Assorted Burger Toppings]",Dash (To Taste),,,,,
+Grill,"[CYO Grill Component] Toppings, Lettuce",Green Leaf Lettuce [Assorted Burger Toppings],0.5 Fillet,yes,Nutritionix,"Green Leaf Lettuce (1 cup, shredded)",1.27,Lettuce
+Grill,"[CYO Grill Component] Toppings, Tomato",Sliced Tomato [Assorted Burger Toppings] ,1 Slice,yes,Nutritionix,"Tomato - 1 slice, medium (1/4"" thick) from USDA",0.705,Tomato
+Grill,"[CYO Grill Component] Toppings, Red Onion",Sliced Red Onion [Assorted Burger Toppings],0.5 Rings,yes,Nutritionix,Red Onion (0.1 medium),0.332,Onion
+Grill,"[CYO Grill Component] Toppings, Kosher Dill Pickle",Sliced Kosher Dill Pickle [Assorted Burger Toppings],4 Slice,,,,,
+Grill,"[CYO Grill Component] Toppings, American Cheese",Sliced White American Cheese [Assorted Burger Toppings],1 Slice,yes,Nutritionix,American Cheese - 1 Slice from USDA,1,Cheddar
+Grill,"[CYO Grill Component] Toppings, Cheddar Cheese",Sliced White Cheddar Cheese [Assorted Burger Toppings],1 Slice,yes,University of Rochester Medical Center,"Cheese, cheddar (1 slice)",1,Cheddar
+Grill,"[CYO Grill Component] Toppings, Pepper Jack Cheese",Sliced Pepper Jack Cheese [Assorted Burger Toppings],1 Slice,no,Nutritionix,1 Slice Pepper Jack Cheese,1,Cheddar
+Grill,"[CYO Grill Component] Toppings, Provolone Cheese",Sliced Provolone Cheese [Assorted Burger Toppings],1 Slice,no,University of Rochester Medical Center,"Cheese, provolone (1 slcie)",1,Cheddar
+Grill,"[CYO Grill Component] Toppings, Blue Cheese",Crumbled Blue Cheese [Assorted Burger Toppings],3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Cheese, Blue or Roquefort",0.138,Mozzarella
+Grill,"[CYO Grill Component] Toppings, Vegan Cheese",Daiya Vegan Sliced Cheddar [Assorted Burger Toppings] ,1 Slice,yes,Daiya Foods,Dairy-Free Cheddar Slices,0.776,Daiya Cheddar Slices
+Grill,[CYO Grill Component] Chicken Tenders,Breaded Chicken Tender,8 Oz,no,,,8,Chicken
+Grill,[CYO Grill Component] Chicken Tenders,Canola Oil,1 1/4 Oz,no,,,1.25,Sunflower Oil (CAN)
+Grill,[CYO Grill Component] Fries,Seasoned Coated French Fries,4 Oz,no,,,4,Potato Fries
+Grill,[CYO Grill Component] Fries,Canola Oil,,,,,,
+Grill,[CYO Grill Component] Fries,Kosher Salt,,,,,,
+Grill,[CYO Grill Component] Sweet Potato Fries,Sweet Potato Fries,4 Oz,no,,,4,Sweet Potato Fries
+Grill,[CYO Grill Component] Sweet Potato Fries,Canola Oil,,,,,,
+Grill,[CYO Grill Component] Sweet Potato Fries,Kosher Salt,,,,,,
+Ramen,[CYO Ramen Component] Chicken Bowl,Japanese Ramen Noodles [Ramen Noodles],4 Oz,no,,,4,Wheat Noodles
+Ramen,[CYO Ramen Component] Chicken Bowl,Water [Ramen Noodles],,,,,,
+Ramen,[CYO Ramen Component] Chicken Bowl,Fresh Peeled Garlic Gloves [Chicken Ramen Broth Trillium],1 Tablespoon + 1 3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Chopped Garlic,0.529,Onion
+Ramen,[CYO Ramen Component] Chicken Bowl,Ginger Root [Chicken Ramen Broth Trillium],,,,,,
+Ramen,[CYO Ramen Component] Chicken Bowl,Gluten Free Tamari Soy Sauce [Chicken Ramen Broth Trillium],,,,,,
+Ramen,[CYO Ramen Component] Chicken Bowl,Canola Oil [Chicken Ramen Broth Trillium],1 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Canola and Soybean Oil,0.16,Sunflower Oil (CAN)
+Ramen,[CYO Ramen Component] Chicken Bowl,Water [Chicken Ramen Broth Trillium],,,,,,
+Ramen,[CYO Ramen Component] Chicken Bowl,Gluten Free Chicken Soup Base [Chicken Ramen Broth Trillium],,,,,,
+Ramen,[CYO Ramen Component] Chicken Bowl,Chicken Thigh Meat Diced Fresh [Marinated Teriyaki Chicken for Ramen],3 1/2 Oz,no,,,3.5,Chicken
+Ramen,[CYO Ramen Component] Chicken Bowl,"Gluten Free Tamari Soy Sauce [Teriyaki Marinade for Chicken Bowl, Chicken Marinated Teriyaki for Ramen]",,,,,,
+Ramen,[CYO Ramen Component] Chicken Bowl,"Apple Cider Vinegar [Teriyaki Marinade for Chicken Bowl, Chicken Marinated Teriyaki for Ramen]",,,,,,
+Ramen,[CYO Ramen Component] Chicken Bowl,"Pineapple Juice [Teriyaki Marinade for Chicken Bowl, Chicken Marinated Teriyaki for Ramen]",,,,,,
+Ramen,[CYO Ramen Component] Chicken Bowl,"Ground Ginger [Teriyaki Marinade for Chicken Bowl, Chicken Marinated Teriyaki for Ramen]",,,,,,
+Ramen,[CYO Ramen Component] Chicken Bowl,"Granulated Garlic [Teriyaki Marinade for Chicken Bowl, Chicken Marinated Teriyaki for Ramen]",,,,,,
+Ramen,[CYO Ramen Component] Chicken Bowl,"Granulated Onion [Teriyaki Marinade for Chicken Bowl, Chicken Marinated Teriyaki for Ramen]",,,,,,
+Ramen,[CYO Ramen Component] Chicken Bowl,"Brown Sugar [Teriyaki Marinade for Chicken Bowl, Chicken Marinated Teriyaki for Ramen]",,,,,,
+Ramen,[CYO Ramen Component] Chicken Bowl,"Water [Teriyaki Marinade for Chicken Bowl, Chicken Marinated Teriyaki for Ramen]",,,,,,
+Ramen,[CYO Ramen Component] Ginger Tare,Lemon Grass [Spice Blend Tare Vegetarian],,,,,,
+Ramen,[CYO Ramen Component] Ginger Tare,Fresh Peeled Garlic Cloves [Spice Blend Tare Vegetarian],1/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Chopped Garlic,0.044,Onion
+Ramen,[CYO Ramen Component] Ginger Tare,Ginger Root [Spice Blend Tare Vegetarian],,,,,,
+Ramen,[CYO Ramen Component] Ginger Tare,Whole Peeled Onion [Spice Blend Tare Vegetarian],1 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Onions, raw (chopped)",0.118,Onion
+Ramen,[CYO Ramen Component] Ginger Tare,Green Onion [Spice Blend Tare Vegetarian],7/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Onions, spring or scallions (includes tops and buulb), raw (chopped)",0.064,Onion
+Ramen,[CYO Ramen Component] Ginger Tare,Fresh Jumbo Carrot [Spice Blend Tare Vegetarian],,,,,,
+Ramen,[CYO Ramen Component] Ginger Tare,Mirin Wine [Spice Blend Tare Vegetarian],,,,,,
+Ramen,[CYO Ramen Component] Ginger Tare,Gluten Free Tamri Soy Sauce [Spice Blend Tare Vegetarian],,,,,,
+Ramen,[CYO Ramen Component] Ginger Tare,Granulated Sugar [Spice Blend Tare Vegetarian],,,,,,
+Ramen,[CYO Ramen Component] Ginger Tare,Star Anise [Spice Blend Tare Vegetarian],,,,,,
+Ramen,[CYO Ramen Component] Ginger Tare,Sake Wine Sho Chiko [Spice Blend Tare Vegetarian],,,,,,
+Ramen,[CYO Ramen Component] Ginger Tare,Water [Spice Blend Tare Vegetarian],,,,,,
+Ramen,[CYO Ramen Component] Chicken Bowl,Green Onion,1 Tablespoon,yes,USDA Nutrient Database for Standard Reference,"Onions, spring or scallions (includes tops and buulb), raw (chopped)",0.22,Onion
+Ramen,[CYO Ramen Component] Chicken Bowl,Frozen Kernel Corn,1 Tablespoon,yes,USDA Nutrient Database for Standard Reference,"Corn, sweet, white, frozen, kernels cut off cob, unprepared",0.364,Sweet Corn
+Ramen,[CYO Ramen Component] Chicken Bowl,Napa Cabbage [Cabbage Sesame Salad],2 Tablespoon + 2 1/2 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Original Napa Cabbage,2.028,Cabbage
+Ramen,[CYO Ramen Component] Chicken Bowl,Fresh Red Cabbage [Cabbage Sesame Salad],1 1/2 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Red cabbage,0.143,Cabbage
+Ramen,[CYO Ramen Component] Chicken Bowl,Carrot Shredded [Cabbage Sesame Salad],5/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Shredded Carrots,0.02,Carrot
+Ramen,[CYO Ramen Component] Chicken Bowl,"Gluten Free Tamar Soy Sauce [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",,,,,,
+Ramen,[CYO Ramen Component] Chicken Bowl,"Seasoned Rice Vinegar [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",,,,,,
+Ramen,[CYO Ramen Component] Chicken Bowl,"Fresh Peeled Garlic Cloves [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",,,,,,
+Ramen,[CYO Ramen Component] Chicken Bowl,"Honey [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",,,,,,
+Ramen,[CYO Ramen Component] Chicken Bowl,"Dijon Mustard [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",,,,,,
+Ramen,[CYO Ramen Component] Chicken Bowl,"Ginger Root [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",,,,,,
+Ramen,[CYO Ramen Component] Chicken Bowl,"Sesame Oil [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",1/2 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Pure Sesame Oil,0.082,Rapeseed Oil
+Ramen,[CYO Ramen Component] Chicken Bowl,"Canola Oil [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",2 7/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Canola and Soybean Oil,0.461,Sunflower Oil (CAN)
+Ramen,[CYO Ramen Component] Chicken Bowl,Egg Whole Fresh Medium Flat [Egg Sous Vide],1 Egg,yes,USDA Nutrient Database for Standard Reference,Medium (M) Egg,1.764,Eggs
+Ramen,[CYO Ramen Component] Chicken Bowl,Water [Egg Sous Vide],,,,,,
+Ramen,[CYO Ramen Component] Chicken Bowl,Nori Seaweed Sheet,,,,,,
+Ramen,[CYO Ramen Component] Tofu Bowl,Ramen Noodle [Tokyo Ramen Noodle],5 Oz,no,,,5,Wheat Noodles
+Ramen,[CYO Ramen Component] Tofu Bowl,Water [Tokyo Ramen Noodle],,,,,,
+Ramen,[CYO Ramen Component] Tofu Bowl,"Whole Peeled Onion [Vegetable Scraps For Stock, Gf Vegetable Soy Broth]",1 Oz,no,,,1,Onion
+Ramen,[CYO Ramen Component] Tofu Bowl,"Celery Stalk Whole Fresh [Vegetable Scraps For Stock, Gf Vegetable Soy Broth]",1 Oz,no,,,1,Celery
+Ramen,[CYO Ramen Component] Tofu Bowl,"Sliced Mushroom [Vegetable Scraps For Stock, Gf Vegetable Soy Broth]",1 Oz,no,,,1,Mushroom
+Ramen,[CYO Ramen Component] Tofu Bowl,"Zucchini Squash [Vegetable Scraps For Stock, Gf Vegetable Soy Broth]",1 Oz,no,,,1,Squash
+Ramen,[CYO Ramen Component] Tofu Bowl,"Eggplant [Vegetable Scraps For Stock, Gf Vegetable Soy Broth]",1 Oz,no,,,1,Eggplant
+Ramen,[CYO Ramen Component] Tofu Bowl,"Cauliflower [Vegetable Scraps For Stock, Gf Vegetable Soy Broth]",1 Oz,no,,,1,Cauliflower
+Ramen,[CYO Ramen Component] Tofu Bowl,"Whole Fresh Tomato [Vegetable Scraps For Stock, Gf Vegetable Soy Broth]",1 Oz,no,,,1,Tomato
+Ramen,[CYO Ramen Component] Tofu Bowl,"Fennel Bulb [Vegetable Scraps For Stock, Gf Vegetable Soy Broth]",1 Oz,no,,,1,Fennel
+Ramen,[CYO Ramen Component] Tofu Bowl,"Broccoli Crown Whole Icelss [Vegetable Scraps For Stock, Gf Vegetable Soy Broth]",1 Oz,no,,,1,Broccoli
+Ramen,[CYO Ramen Component] Tofu Bowl,Fresh Peeled Garlic Cloves [Gf Vegetable Soy Broth],5/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Chopped Garlic,0.11,Onion
+Ramen,[CYO Ramen Component] Tofu Bowl,Ginger Root [Gf Vegetable Soy Broth],,,,,,
+Ramen,[CYO Ramen Component] Tofu Bowl,Star Anise [Gf Vegetable Soy Broth],,,,,,
+Ramen,[CYO Ramen Component] Tofu Bowl,Water [Gf Vegetable Soy Broth],,,,,,
+Ramen,[CYO Ramen Component] Tofu Bowl,Gluten Free Tamari Soy Sauce [Gf Vegetable Soy Broth],,,,,,
+Ramen,[CYO Ramen Component] Tofu Bowl,Granulated Sugar [Gf Vegetable Soy Broth],,,,,,
+Ramen,[CYO Ramen Component] Tofu Bowl,Tofu Silken,2 Oz,no,,,2,Tofu
+Ramen,[CYO Ramen Component] Tofu Bowl,Green Onion,1 Tablespoon,yes,USDA Nutrient Database for Standard Reference,"Onions, spring or scallions (includes tops and buulb), raw (chopped)",0.22,Onion
+Ramen,[CYO Ramen Component] Tofu Bowl,Frozen Kernel Corn,1 Tablespoon,yes,USDA Nutrient Database for Standard Reference,"Corn, sweet, white, frozen, kernels cut off cob, unprepared",0.364,Sweet Corn
+Ramen,[CYO Ramen Component] Tofu Bowl,Napa Cabbage [Cabbage Sesame Salad],2 Tablespoon + 2 1/2 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Original Napa Cabbage,2.028,Cabbage
+Ramen,[CYO Ramen Component] Tofu Bowl,Fresh Red Cabbage [Cabbage Sesame Salad],1 1/2 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Red cabbage,0.143,Cabbage
+Ramen,[CYO Ramen Component] Tofu Bowl,Carrot Shredded [Cabbage Sesame Salad],5/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Shredded Carrots,0.02,Carrot
+Ramen,[CYO Ramen Component] Tofu Bowl,"Gluten Free Tamar Soy Sauce [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",,,,,,
+Ramen,[CYO Ramen Component] Tofu Bowl,"Seasoned Rice Vinegar [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",,,,,,
+Ramen,[CYO Ramen Component] Tofu Bowl,"Fresh Peeled Garlic Cloves [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",,,,,,
+Ramen,[CYO Ramen Component] Tofu Bowl,"Honey [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",,,,,,
+Ramen,[CYO Ramen Component] Tofu Bowl,"Dijon Mustard [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",,,,,,
+Ramen,[CYO Ramen Component] Tofu Bowl,"Ginger Root [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",,,,,,
+Ramen,[CYO Ramen Component] Tofu Bowl,"Sesame Oil [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",1/2 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Pure Sesame Oil,0.082,Rapeseed Oil
+Ramen,[CYO Ramen Component] Tofu Bowl,"Canola Oil [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",2 7/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Canola and Soybean Oil,0.461,Sunflower Oil (CAN)
+Ramen,[CYO Ramen Component] Tofu Bowl,Egg Whole Fresh Medium Flat [Egg Sous Vide],1 Egg,yes,USDA Nutrient Database for Standard Reference,Medium (M) Egg,1.764,Eggs
+Ramen,[CYO Ramen Component] Tofu Bowl,Water [Egg Sous Vide],,,,,,
+Ramen,[CYO Ramen Component] Tofu Bowl,Nori Seaweed Sheet,,,,,,
+Pasta,[CYO Pasta Component] Alfredo Sauce,"Salted Butter [Alfredo Sauce, Trillium Pasta Station Sauce Options]",1 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Butter, salted",0.167,Butter
+Pasta,[CYO Pasta Component] Alfredo Sauce,"Fresh Peeled Garlic Cloves [Alfredo Sauce, Trillium Pasta Station Sauce Options]",1/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Chopped Garlic,0.022,Onion
+Pasta,[CYO Pasta Component] Alfredo Sauce,"All Purpose Flour [Alfredo Sauce, Trillium Pasta Station Sauce Options]",1 3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,All-Purpose Flour,0.154,Wheat Flour
+Pasta,[CYO Pasta Component] Alfredo Sauce,"Cornell 2% Milk [Alfredo Sauce, Trillium Pasta Station Sauce Options]",3 Tablespoon + 2 1/2 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Milk, Reduced Fat (2%)",2.062,2% Milk
+Pasta,[CYO Pasta Component] Alfredo Sauce,"Heavy Cream [Alfredo Sauce, Trillium Pasta Station Sauce Options]",1 Tablespoon + 3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Cream, heavy, fluid",0.656,Cream (Heavy)
+Pasta,[CYO Pasta Component] Alfredo Sauce,"Grated Parmesan Cheese [Alfredo Sauce, Trillium Pasta Station Sauce Options]",1 Tablespoon + 2 1/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Cheese, parmesan, grated",0.386,Parmesan
+Pasta,[CYO Pasta Component] Alfredo Sauce,"Kosher Salt [Alfredo Sauce, Trillium Pasta Station Sauce Options]",,,,,,
+Pasta,[CYO Pasta Component] Alfredo Sauce,"Black Pepper [Alfredo Sauce, Trillium Pasta Station Sauce Options]",,,,,,
+Pasta,[CYO Pasta Component] Alfredo Sauce,"Fresh Flat Leaf Parsley [Alfredo Sauce, Trillium Pasta Station Sauce Options]",1/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Parsley, fresh",0.011,Fennel
+Pasta,[CYO Pasta Component] Creamy Spinach Alfredo Sauce,"Salted Butter [Alfredo Sauce, Creamy Spinach Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",1 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Butter, salted",0.167,Butter
+Pasta,[CYO Pasta Component] Creamy Spinach Alfredo Sauce,"Fresh Peeled Garlic Cloves [Alfredo Sauce, Creamy Spinach Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",1/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Chopped Garlic,0.022,Onion
+Pasta,[CYO Pasta Component] Creamy Spinach Alfredo Sauce,"All Purpose Flour [Alfredo Sauce, Creamy Spinach Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",1 3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,All-Purpose Flour,0.154,Wheat Flour
+Pasta,[CYO Pasta Component] Creamy Spinach Alfredo Sauce,"Cornell 2% Milk [Alfredo Sauce, Creamy Spinach Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",3 Tablespoon + 2 1/2 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Milk, Reduced Fat (2%)",2.062,2% Milk
+Pasta,[CYO Pasta Component] Creamy Spinach Alfredo Sauce,"Heavy Cream [Alfredo Sauce, Creamy Spinach Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",1 Tablespoon + 3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Cream, heavy, fluid",0.656,Cream (Heavy)
+Pasta,[CYO Pasta Component] Creamy Spinach Alfredo Sauce,"Grated Parmesan Cheese [Alfredo Sauce, Creamy Spinach Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",1 Tablespoon + 2 1/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Cheese, parmesan, grated",0.386,Parmesan
+Pasta,[CYO Pasta Component] Creamy Spinach Alfredo Sauce,"Kosher Salt [Alfredo Sauce, Creamy Spinach Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",,,,,,
+Pasta,[CYO Pasta Component] Creamy Spinach Alfredo Sauce,"Black Pepper [Alfredo Sauce, Creamy Spinach Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",,,,,,
+Pasta,[CYO Pasta Component] Creamy Spinach Alfredo Sauce,"Fresh Flat Leaf Parlsey [Alfredo Sauce, Creamy Spinach Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",1/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Parsley, fresh",0.011,Fennel
+Pasta,[CYO Pasta Component] Creamy Spinach Alfredo Sauce,"Canola Oil [Sauteed Spinach, Creamy Spinach Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",,,,,,
+Pasta,[CYO Pasta Component] Creamy Spinach Alfredo Sauce,"Spinach [Sauteed Spinach, Creamy Spinach Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",1 3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Spinach, raw",0.039,Lettuce
+Pasta,[CYO Pasta Component] Creamy Spinach Alfredo Sauce,"Kosher Salt [Sauteed Spinach, Creamy Spinach Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",,,,,,
+Pasta,[CYO Pasta Component] Creamy Spinach Alfredo Sauce,"Black Pepper [Sauteed Spinach, Creamy Spinach Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",,,,,,
+Pasta,[CYO Pasta Component] Marinara Pasta Sauce,"Extra Virgin Olive Oil [Marinara Pasta Sauce, Trillium Pasta Station Sauce]",1/2 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Oil, olive, extra virgin",0.079,Olive Oil
+Pasta,[CYO Pasta Component] Marinara Pasta Sauce,"Fresh Peeled Garlic Cloves [Marinara Pasta Sauce, Trillium Pasta Station Sauce]",1/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Chopped Garlic,0.022,Onion
+Pasta,[CYO Pasta Component] Marinara Pasta Sauce,"Fresh Basil [Marinara Pasta Sauce, Trillium Pasta Station Sauce]",1/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Basil, raw",0.002,Fennel
+Pasta,[CYO Pasta Component] Marinara Pasta Sauce,"Piancone Canned Ground Tomatoes [Marinara Pasta Sauce, Trillium Pasta Station Sauce]",#10 Can,yes,USDA Nutrient Database for Standard Reference,Ground peeled tomatoes,3.2,Tomato
+Pasta,[CYO Pasta Component] Marinara Pasta Sauce,"Black Pepper [Marinara Pasta Sauce, Trillium Pasta Station Sauce]",,,,,,
+Pasta,[CYO Pasta Component] Marinara Pasta Sauce,"Crushed Red Pepper Flakes [Marinara Pasta Sauce, Trillium Pasta Station Sauce]",,,,,,
+Pasta,[CYO Pasta Component] Marinara Pasta Sauce,"Fresh Rosemary [Marinara Pasta Sauce, Trillium Pasta Station Sauce]",,,,,,
+Pasta,[CYO Pasta Component] Marinara Pasta Sauce,"Fresh Thyme [Marinara Pasta Sauce, Trillium Pasta Station Sauce]",,,,,,
+Pasta,[CYO Pasta Component] Marinara Pasta Sauce,"Granulated Sugar [Marinara Pasta Sauce, Trillium Pasta Station Sauce]",,,,,,
+Pasta,[CYO Pasta Component] Marinara Pasta Sauce,"Kosher Salt [Marinara Pasta Sauce, Trillium Pasta Station Sauce]",,,,,,
+Pasta,[CYO Pasta Component] Creamy Pesto Sauce,"Salted Butter [Alfredo Sauce, Creamy Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",1 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Butter, salted",0.167,Butter
+Pasta,[CYO Pasta Component] Creamy Pesto Sauce,"Fresh Peeled Garlic Cloves [Alfredo Sauce, Creamy Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",1/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Chopped Garlic,0.022,Onion
+Pasta,[CYO Pasta Component] Creamy Pesto Sauce,"All Purpose Flour [Alfredo Sauce, Creamy Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",1 3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,All-Purpose Flour,0.154,Wheat Flour
+Pasta,[CYO Pasta Component] Creamy Pesto Sauce,"Cornell 2% Milk [Alfredo Sauce, Creamy Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",3 Tablespoon + 2 1/2 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Milk, Reduced Fat (2%)",2.062,2% Milk
+Pasta,[CYO Pasta Component] Creamy Pesto Sauce,"Heavy Cream [Alfredo Sauce, Creamy Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",1 Tablespoon + 3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Cream, heavy, fluid",0.656,Cream (Heavy)
+Pasta,[CYO Pasta Component] Creamy Pesto Sauce,"Grated Parmesan Cheese [Alfredo Sauce, Creamy Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",1 Tablespoon + 2 1/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Cheese, parmesan, grated",0.386,Parmesan
+Pasta,[CYO Pasta Component] Creamy Pesto Sauce,"Kosher Salt [Alfredo Sauce, Creamy Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",,,,,,
+Pasta,[CYO Pasta Component] Creamy Pesto Sauce,"Black Pepper [Alfredo Sauce, Creamy Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",,,,,,
+Pasta,[CYO Pasta Component] Creamy Pesto Sauce,"Fresh Flat Leaf Parsley [Alfredo Sauce, Creamy Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",1/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Parsley, fresh",0.011,Fennel
+Pasta,[CYO Pasta Component] Creamy Pesto Sauce,"*Basil [Nut Free Basil Pesto Sauce, Creamy Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",*2 1/2 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Sauce, pesto, ready-to-serve, refrigerated",0.153,Fennel
+Pasta,[CYO Pasta Component] Creamy Pesto Sauce,"*Parmesan [Nut Free Basil Pesto Sauce, Creamy Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",*2 1/2 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Sauce, pesto, ready-to-serve, refrigerated",0.153,Parmesan
+Pasta,[CYO Pasta Component] Creamy Pesto Sauce,"*Olive Oil [Nut Free Basil Pesto Sauce, Creamy Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",*2 1/2 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Sauce, pesto, ready-to-serve, refrigerated",0.153,Olive Oil
+Pasta,[CYO Pasta Component] Creamy Sun Dried Tomato Pesto Sauce,"Salted Butter [Alfredo Sauce, Creamy Sun Dried Tomato Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",1 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Butter, salted",0.167,Butter
+Pasta,[CYO Pasta Component] Creamy Sun Dried Tomato Pesto Sauce,"Fresh Peeled Garlic Cloves [Alfredo Sauce, Creamy Sun Dried Tomato Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",1/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Chopped Garlic,0.022,Onion
+Pasta,[CYO Pasta Component] Creamy Sun Dried Tomato Pesto Sauce,"All Purpose Flour [Alfredo Sauce, Creamy Sun Dried Tomato Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",1 3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,All-Purpose Flour,0.154,Wheat Flour
+Pasta,[CYO Pasta Component] Creamy Sun Dried Tomato Pesto Sauce,"Cornell 2% Milk [Alfredo Sauce, Creamy Sun Dried Tomato Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",3 Tablespoon + 2 1/2 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Milk, Reduced Fat (2%)",2.062,2% Milk
+Pasta,[CYO Pasta Component] Creamy Sun Dried Tomato Pesto Sauce,"Heavy Cream [Alfredo Sauce, Creamy Sun Dried Tomato Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",1 Tablespoon + 3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Cream, heavy, fluid",0.656,Cream (Heavy)
+Pasta,[CYO Pasta Component] Creamy Sun Dried Tomato Pesto Sauce,"Grated Parmesan Cheese [Alfredo Sauce, Creamy Sun Dried Tomato Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",1 Tablespoon + 2 1/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Cheese, parmesan, grated",0.386,Parmesan
+Pasta,[CYO Pasta Component] Creamy Sun Dried Tomato Pesto Sauce,"Kosher Salt [Alfredo Sauce, Creamy Sun Dried Tomato Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",,,,,,
+Pasta,[CYO Pasta Component] Creamy Sun Dried Tomato Pesto Sauce,"Black Pepper [Alfredo Sauce, Creamy Sun Dried Tomato Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",,,,,,
+Pasta,[CYO Pasta Component] Creamy Sun Dried Tomato Pesto Sauce,"Fresh Flat Leaf Parsley [Alfredo Sauce, Creamy Sun Dried Tomato Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",1/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Parsley, fresh",0.011,Fennel
+Pasta,[CYO Pasta Component] Creamy Sun Dried Tomato Pesto Sauce,"Sun Dried Tomato [Sun Dried Tomato Pesto, Creamy Sun Dried Tomato Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",*1 Tablespoon + 3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Sun-dried tomato pesto sauce and spread,0.227,Tomato
+Pasta,[CYO Pasta Component] Creamy Sun Dried Tomato Pesto Sauce,"Parmesan [Sun Dried Tomato Pesto, Creamy Sun Dried Tomato Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",*1 Tablespoon + 3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Sun-dried tomato pesto sauce and spread,0.227,Parmesan
+Pasta,[CYO Pasta Component] Creamy Sun Dried Tomato Pesto Sauce,"Olive Oil [Sun Dried Tomato Pesto, Creamy Sun Dried Tomato Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",*1 Tablespoon + 3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Sun-dried tomato pesto sauce and spread,0.227,Olive Oil
+Pasta,[CYO Pasta Component] Creamy Red Pepper Alfredo Sauce,"Salted Butter [Alfredo Sauce, Creamy Red Pepper Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",1 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Butter, salted",0.167,Butter
+Pasta,[CYO Pasta Component] Creamy Red Pepper Alfredo Sauce,"Fresh Peeled Garlic Cloves [Alfredo Sauce, Creamy Red Pepper Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",1/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Chopped Garlic,0.022,Onion
+Pasta,[CYO Pasta Component] Creamy Red Pepper Alfredo Sauce,"All Purpose Flour [Alfredo Sauce, Creamy Red Pepper Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",1 3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,All-Purpose Flour,0.154,Wheat Flour
+Pasta,[CYO Pasta Component] Creamy Red Pepper Alfredo Sauce,"Cornell 2% Milk [Alfredo Sauce, Creamy Red Pepper Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",3 Tablespoon + 2 1/2 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Milk, Reduced Fat (2%)",2.062,2% Milk
+Pasta,[CYO Pasta Component] Creamy Red Pepper Alfredo Sauce,"Heavy Cream [Alfredo Sauce, Creamy Red Pepper Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",1 Tablespoon + 3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Cream, heavy, fluid",0.656,Cream (Heavy)
+Pasta,[CYO Pasta Component] Creamy Red Pepper Alfredo Sauce,"Grated Parmesan Cheese [Alfredo Sauce, Creamy Red Pepper Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",1 Tablespoon + 2 1/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Cheese, parmesan, grated",0.386,Parmesan
+Pasta,[CYO Pasta Component] Creamy Red Pepper Alfredo Sauce,"Kosher Salt [Alfredo Sauce, Creamy Red Pepper Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",,,,,,
+Pasta,[CYO Pasta Component] Creamy Red Pepper Alfredo Sauce,"Black Pepper [Alfredo Sauce, Creamy Red Pepper Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",,,,,,
+Pasta,[CYO Pasta Component] Creamy Red Pepper Alfredo Sauce,"Fresh Flat Leaf Parsley [Alfredo Sauce, Creamy Red Pepper Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",1/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Parsley, fresh",0.011,Fennel
+Pasta,[CYO Pasta Component] Creamy Red Pepper Alfredo Sauce,"Roasted Red Peppers [Creamy Red Pepper Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",1 Tablespoon + 3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Diced green bell peppers,0.3,Bell Pepper
+Pasta,[CYO Pasta Component] Penne Pasta,"Kosher Salt [Whole Grain Penne Pasta, Trillium Pasta Station Pasta Options]",,,,,,
+Pasta,[CYO Pasta Component] Penne Pasta,"Water [Whole Grain Penne Pasta, Trillium Pasta Station Pasta Options]",,,,,,
+Pasta,[CYO Pasta Component] Penne Pasta,"Whole Grain Penne Pasta [Whole Grain Penne Pasta, Trillium Pasta Station Pasta Options]",2 Oz,no,,,2,Wheat Noodles
+Pasta,[CYO Pasta Component] Penne Pasta,"Canola Oil [Whole Grain Penne Pasta, Trillium Pasta Station Pasta Options]",1/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Canola and soybean oil,0.04,Sunflower Oil (CAN)
+Pasta,[CYO Pasta Component] Linguine Pasta,"Kosher Salt [Linguine Pasta, Trillium Pasta Station Pasta Options]",,,,,,
+Pasta,[CYO Pasta Component] Linguine Pasta,"Water [Linguine Pasta, Trillium Pasta Station Pasta Options]",,,,,,
+Pasta,[CYO Pasta Component] Linguine Pasta,"Linguine Pasta [Linguine Pasta, Trillium Pasta Station Pasta Options]",2 Oz,no,,,2,Wheat Noodles
+Pasta,[CYO Pasta Component] Linguine Pasta,"Canola Oil [Linguine Pasta, Trillium Pasta Station Pasta Options]",1/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Canola and soybean oil,0.04,Sunflower Oil (CAN)
+Pasta,[CYO Pasta Component] Sauteed Broccoli,"Broccoli [Sauteed Broccoli, Trillium Pasta Station Veggies Options]",2 Tablespoon + 1/2 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Broccoli, raw",0.42,Broccoli
+Pasta,[CYO Pasta Component] Sauteed Broccoli,"Canola Oil [Sauteed Broccoli, Trillium Pasta Station Veggies Options]",1/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Canola and soybean oil,0.02,Sunflower Oil (CAN)
+Pasta,[CYO Pasta Component] Sauteed Broccoli,"Kosher Salt [Granulated Garlic, Salt, & Pepper Blend, Sauteed Broccoli, Trillium Pasta Station Veggies Options]",,,,,,
+Pasta,[CYO Pasta Component] Sauteed Broccoli,"Black Pepper [Granulated Garlic, Salt, & Pepper Blend, Sauteed Broccoli, Trillium Pasta Station Veggies Options]",,,,,,
+Pasta,[CYO Pasta Component] Sauteed Broccoli,"Garlic Powder [Granulated Garlic, Salt, & Pepper Blend, Sauteed Broccoli, Trillium Pasta Station Veggies Options]",,,,,,
+Pasta,[CYO Pasta Component] Roasted Cherry Tomatoes,"Heirloom Cherry Tomato [Roasted Cherry Tomatoes, Trillium Pasta Station Veggies Options]",12/1 Pt,yes,USDA Nutrient Database for Standard Reference,Cherry tomatoes,4.13,Tomato
+Pasta,[CYO Pasta Component] Roasted Cherry Tomatoes,"Cherry Tomato [Roasted Cherry Tomatoes, Trillium Pasta Station Veggies Options]",12/1 Pt,yes,USDA Nutrient Database for Standard Reference,Cherry tomatoes,2.07,Tomato
+Pasta,[CYO Pasta Component] Roasted Cherry Tomatoes,"Pomace Olive Oil [Roasted Cherry Tomatoes, Trillium Pasta Station Veggies Options]",1/2 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Oil, olive, extra virgin",0.08,Olive Oil
+Pasta,[CYO Pasta Component] Roasted Cherry Tomatoes,"Dried Basil [Roasted Cherry Tomatoes, Trillium Pasta Station Veggies Options]",,,,,,
+Pasta,[CYO Pasta Component] Roasted Cherry Tomatoes,"Dried Oregano [Roasted Cherry Tomatoes, Trillium Pasta Station Veggies Options]",,,,,,
+Pasta,[CYO Pasta Component] Roasted Cherry Tomatoes,"Kosher Salt [Roasted Cherry Tomatoes, Trillium Pasta Station Veggies Options]",,,,,,
+Pasta,[CYO Pasta Component] Roasted Cherry Tomatoes,"Black Pepper [Roasted Cherry Tomatoes, Trillium Pasta Station Veggies Options]",,,,,,
+Pasta,[CYO Pasta Component] Sauteed Mushrooms,"Sliced Mushroom [Sauteed Mushrooms, Trillium Pasta Station Veggies Options]",1 1/2 Oz,no,,,1.5,Mushroom
+Pasta,[CYO Pasta Component] Sauteed Mushrooms,"Kosher Salt [Granulated Garlic, Salt, & Pepper Blend, Sauteed Mushrooms, Trillium Pasta Station Veggies Options]",,,,,,
+Pasta,[CYO Pasta Component] Sauteed Mushrooms,"Black Pepper [Granulated Garlic, Salt, & Pepper Blend, Sauteed Mushrooms, Trillium Pasta Station Veggies Options]",,,,,,
+Pasta,[CYO Pasta Component] Sauteed Mushrooms,"Garlic Powder [Granulated Garlic, Salt, & Pepper Blend, Sauteed Mushrooms, Trillium Pasta Station Veggies Options]",,,,,,
+Pasta,[CYO Pasta Component] Sauteed Mushrooms,"Canola Oil [Sauteed Mushrooms, Trillium Pasta Station Veggies Options]",1/2 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Canola and soybean oil,0.08,Sunflower Oil (CAN)
+Pasta,[CYO Pasta Component] Olive & Caper Topping,"Queen Green Olive Pieces [Olive & Caper Topping, Trillium Pasta Station Veggies Options]",2 Tablespoon + 1 3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Olives, green",0.76,Olives
+Pasta,[CYO Pasta Component] Olive & Caper Topping,"Capers [Olive & Caper Topping, Trillium Pasta Station Veggies Options]",1 Tablespoon + 3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Capers, canned (drained)",0.38,Olives
+Pasta,[CYO Pasta Component] Olive & Caper Topping,"Kalamata Olives [Olive & Caper Topping, Trillium Pasta Station Veggies Options]",2 Tablespoon + 1 3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Sliced Greek Kalamata Olives,0.68,Olives
+Pasta,[CYO Pasta Component] Sauteed Onions,"Whole Peeled Onion [Sauteed Onions, Trillium Pasta Station Veggies Options]",1 Lb,no,,,16,Onion
+Pasta,[CYO Pasta Component] Sauteed Onions,"Canola Oil [Sauteed Onions, Trillium Pasta Station Veggies Options]",1/2 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Canola and soybean oil,0.08,Sunflower Oil (CAN)
+Pasta,[CYO Pasta Component] Sauteed Onions,"Kosher Salt [Granulated Garlic, Salt, & Pepper Blend, Sauteed Onions, Trillium Pasta Station Veggies Options]",,,,,,
+Pasta,[CYO Pasta Component] Sauteed Onions,"Black Pepper [Granulated Garlic, Salt, & Pepper Blend, Sauteed Onions, Trillium Pasta Station Veggies Options]",,,,,,
+Pasta,[CYO Pasta Component] Sauteed Onions,"Garlic Powder [Granulated Garlic, Salt, & Pepper Blend, Sauteed Onions, Trillium Pasta Station Veggies Options]",,,,,,
+Pasta,[CYO Pasta Component] Sauteed Pepper Medley,"Yellow Bell Pepper [Sauteed Pepper Medley, Trillium Pasta Station Veggies Options]",1 Tablespoon + 3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Diced green bell peppers,0.3,Bell Pepper
+Pasta,[CYO Pasta Component] Sauteed Pepper Medley,"Red Bell Peppers [Sauteed Pepper Medley, Trillium Pasta Station Veggies Options]",2 1/2 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Diced green bell peppers,0.2,Bell Pepper
+Pasta,[CYO Pasta Component] Sauteed Pepper Medley,"Green Bell Peppers [Sauteed Pepper Medley, Trillium Pasta Station Veggies Options]",1 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Diced green bell peppers,0.08,Bell Pepper
+Pasta,[CYO Pasta Component] Sauteed Pepper Medley,"Canola Oil [Sauteed Pepper Medley, Trillium Pasta Station Veggies Options]",1/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Canola and soybean oil,0.04,Sunflower Oil (CAN)
+Pasta,[CYO Pasta Component] Sauteed Pepper Medley,"Kosher Salt [Granulated Garlic, Salt, & Pepper Blend, Sauteed Pepper Medley, Trillium Pasta Station Veggies Options]",,,,,,
+Pasta,[CYO Pasta Component] Sauteed Pepper Medley,"Black Pepper [Granulated Garlic, Salt, & Pepper Blend, Sauteed Pepper Medley, Trillium Pasta Station Veggies Options]",,,,,,
+Pasta,[CYO Pasta Component] Sauteed Pepper Medley,"Garlic Powder [Granulated Garlic, Salt, & Pepper Blend, Sauteed Pepper Medley, Trillium Pasta Station Veggies Options]",,,,,,
+Pasta,[CYO Pasta Component] Sauteed Zucchini & Summer Squash,"Canola Oil [Sauteed Zucchini & Summer Squash, Trillium Pasta Station Veggies Options]",1/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Canola and soybean oil,0.02,Squash
+Pasta,[CYO Pasta Component] Sauteed Zucchini & Summer Squash,"Yellow Summer Squash [Sauteed Zucchini & Summer Squash, Trillium Pasta Station Veggies Options]",1 Tablespoon + 1/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Yellow squash,0.41,Squash
+Pasta,[CYO Pasta Component] Sauteed Zucchini & Summer Squash,"Zucchini Squash [Sauteed Zucchini & Summer Squash, Trillium Pasta Station Veggies Options]",2 Tablespoon + 3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Zucchini squash,0.83,Squash
+Pasta,[CYO Pasta Component] Sauteed Zucchini & Summer Squash,"Kosher Salt [Granulated Garlic, Salt, & Pepper Blend, Sauteed Zucchini & Summer Squash, Trillium Pasta Station Veggies Options]",,,,,,
+Pasta,[CYO Pasta Component] Sauteed Zucchini & Summer Squash,"Black Pepper [Granulated Garlic, Salt, & Pepper Blend, Sauteed Zucchini & Summer Squash, Trillium Pasta Station Veggies Options]",,,,,,
+Pasta,[CYO Pasta Component] Sauteed Zucchini & Summer Squash,"Garlic Powder [Granulated Garlic, Salt, & Pepper Blend, Sauteed Zucchini & Summer Squash, Trillium Pasta Station Veggies Options]",,,,,,
+Pasta,[CYO Pasta Component] Mild Italian Sausage,"Sweet Italian Pork Sausage Links [Mild Italian Sausage, Trillium Pasta Station Meat Options]",3 Oz,no,,,3,Sausage
+Pasta,[CYO Pasta Component] Hot Italian Pork Sausage,"Hot Italian Pork Sausage Links [Hot Italian Sausage, Trillium Pasta Station Meat Options]",3 Oz,no,,,3,Sausage
+Pasta,[CYO Pasta Component] Pork & Beef Meatball,"Pork & Beef Meatball [Italian Style Meatballs, Trillium Pasta Station Meat Options]",3 Oz,no,,,3,Beef
+Pasta,[CYO Pasta Component] Grilled Chicken,"Chicken Breast Bnls Skls 4 Oz Fzn lqf [Grilled Chicken, Trillium Pasta Station Meat Options]",4 Oz,no,,,4,Chicken
+Pasta,[CYO Pasta Component] Grilled Chicken,"Canola Oil [Grilled Chicken, Trillium Pasta Station Meat Options]",1/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Canola and soybean oil,0.02,Sunflower Oil (CAN)
+Pasta,[CYO Pasta Component] Grilled Chicken,"Kosher Salt [Granulated Garlic, Salt, & Pepper Blend, Grilled Chicken, Trillium Pasta Station Veggies Options]",,,,,,
+Pasta,[CYO Pasta Component] Grilled Chicken,"Black Pepper [Granulated Garlic, Salt, & Pepper Blend, Grilled Chicken, Trillium Pasta Station Veggies Options]",,,,,,
+Pasta,[CYO Pasta Component] Grilled Chicken,"Garlic Powder [Granulated Garlic, Salt, & Pepper Blend, Grilled Chicken, Trillium Pasta Station Veggies Options]",,,,,,
+Pasta,[CYO Pasta Component] Breaded Chicken Breast,"Homestyle Breaded Chicken Breast [Breaded Chicken Breast, Trillium Pasta Station Meat Options]",3.5 Oz,no,,,3.5,Chicken
+Pasta,[CYO Pasta Component] Parmesan Cheese,"Shredded Parmesan Cheese [Parmesan Cheese, Trillium Pasta Station Cheese Options]",2 1/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Cheese, parmesan, grated",0.17,Parmesan
+Pasta,[CYO Pasta Component] Asiago Cheese,"Asiago Cheese [Asiago Cheese, Trillium Pasta Station Cheese Options]",1 Tablespoon,yes,USDA Nutrient Database for Standard Reference,"Cheese, parmesan, grated",0.22,Parmesan
+Pasta,[CYO Pasta Component] Breadstick,Parbaked Garlic Breadstick [Breadstick],1.75 Oz,no,,,1.75,Wheat Bread
+Pasta,[CYO Pasta Component] Parsley Garnish,Fresh Flat Leaf Parsley,0.1 Oz,no,,,0.1,Fennel
