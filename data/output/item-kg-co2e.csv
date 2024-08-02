@@ -1,0 +1,46 @@
+"","recipe","sum(kg_co2e)"
+"1","[CYO Grill Component] Burger",3.98820739955015
+"2","[CYO Grill Component] Chicken Sandwich",0.408548970532871
+"3","[CYO Grill Component] Chicken Tenders",0.376447838668671
+"4","[CYO Grill Component] Fries",0.040840402892853
+"5","[CYO Grill Component] Impossible Burger",0.317906313034052
+"6","[CYO Grill Component] Salmon Burger",0.554921298852965
+"7","[CYO Grill Component] Sweet Potato Fries",0.0422551714366103
+"8","[CYO Grill Component] Toppings, American Cheese",0.26032396546883
+"9","[CYO Grill Component] Toppings, Blue Cheese",0.0317565058287473
+"10","[CYO Grill Component] Toppings, Cheddar Cheese",0.26032396546883
+"11","[CYO Grill Component] Toppings, Lettuce",0.00673333495489523
+"12","[CYO Grill Component] Toppings, Pepper Jack Cheese",0.26032396546883
+"13","[CYO Grill Component] Toppings, Provolone Cheese",0.26032396546883
+"14","[CYO Grill Component] Toppings, Red Onion",0.00153724408203471
+"15","[CYO Grill Component] Toppings, Sauteed Mushrooms",0.0073640084775834
+"16","[CYO Grill Component] Toppings, Sauteed Onions",0.00946609550083997
+"17","[CYO Grill Component] Toppings, Tomato",0.00297416933097505
+"18","[CYO Grill Component] Toppings, Vegan Cheese",0.0286154719357063
+"19","[CYO Pasta Component] Alfredo Sauce",0.401708155612819
+"20","[CYO Pasta Component] Asiago Cheese",0.0651244054737783
+"21","[CYO Pasta Component] Breaded Chicken Breast",0.159074355675707
+"22","[CYO Pasta Component] Breadstick",0.0305102890070303
+"23","[CYO Pasta Component] Creamy Pesto Sauce",0.451682173832948
+"24","[CYO Pasta Component] Creamy Red Pepper Alfredo Sauce",0.40327034413408
+"25","[CYO Pasta Component] Creamy Spinach Alfredo Sauce",0.401914927316158
+"26","[CYO Pasta Component] Creamy Sun Dried Tomato Pesto Sauce",0.475685800140107
+"27","[CYO Pasta Component] Grilled Chicken",0.182004852611938
+"28","[CYO Pasta Component] Hot Italian Pork Sausage",0.214000878566064
+"29","[CYO Pasta Component] Linguine Pasta",0.0516246546541506
+"30","[CYO Pasta Component] Marinara Pasta Sauce",0.0156382145324712
+"31","[CYO Pasta Component] Mild Italian Sausage",0.214000878566064
+"32","[CYO Pasta Component] Olive & Caper Topping",0.0344150006268809
+"33","[CYO Pasta Component] Parmesan Cheese",0.0503234042297377
+"34","[CYO Pasta Component] Parsley Garnish",0.000495354279962436
+"35","[CYO Pasta Component] Penne Pasta",0.0516246546541506
+"36","[CYO Pasta Component] Pork & Beef Meatball",2.14272467648443
+"37","[CYO Pasta Component] Roasted Cherry Tomatoes",0.0282081355838334
+"38","[CYO Pasta Component] Sauteed Broccoli",0.00349144460474861
+"39","[CYO Pasta Component] Sauteed Mushrooms",0.00798077542525915
+"40","[CYO Pasta Component] Sauteed Onions",0.0749064080764854
+"41","[CYO Pasta Component] Sauteed Pepper Medley",0.00343140910622169
+"42","[CYO Pasta Component] Sauteed Zucchini & Summer Squash",0.00702902235482268
+"43","[CYO Ramen Component] Chicken Bowl",0.380022401435884
+"44","[CYO Ramen Component] Ginger Tare",0.0010464372365658
+"45","[CYO Ramen Component] Tofu Bowl",0.306845906361974
