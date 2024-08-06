@@ -1,6 +1,6 @@
 ﻿station,recipe,ingredient,listed_quantity,volume_weight_conversion,conversion_source,conversion_item,weight_oz,matched_ingredient
 Grill,[CYO Grill Component] Burger,80/20 Beef Patty,5.33 Oz,no,,,5.33,Beef
-Grill,[CYO Grill Component] Burger,Ithaca Bakery Large Roll [Butter Grilled Roll],1 Roll,yes,"FDA, Title 21, Volume 2; USDA Nutrient Database for Standard Reference",Amish Roll Butter,7.901,Wheat Bread
+Grill,[CYO Grill Component] Burger,Ithaca Bakery Large Roll [Butter Grilled Roll],1 Roll,yes,"FDA, Title 21, Volume 2; USDA Nutrient Database for Standard Reference",Amish Roll Butter,1.764,Wheat Bread
 Grill,[CYO Grill Component] Burger,Salted Butter [Butter Grilled Roll],5/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Butter, salted",0.104,Butter
 Grill,[CYO Grill Component] Burger,Kosher Salt [Seasoning Rochester],,,,,,
 Grill,[CYO Grill Component] Burger,Ground Cumin [Seasoning Rochester],,,,,,
@@ -8,7 +8,7 @@ Grill,[CYO Grill Component] Burger,Garlic Powder [Seasoning Rochester],,,,,,
 Grill,[CYO Grill Component] Burger,Dark Chili Powder [Seasoning Rochester],,,,,,
 Grill,[CYO Grill Component] Burger,Black Pepper [Seasoning Rochester],,,,,,
 Grill,[CYO Grill Component] Chicken Sandwich,5 Oz Bnls Skinles Chicken Breast,1 5 Oz Breast,no,,,5,Chicken
-Grill,[CYO Grill Component] Chicken Sandwich,Ithaca Bakery Large Roll [Butter Grilled Roll],1 Roll,yes,"FDA, Title 21, Volume 2; USDA Nutrient Database for Standard Reference",Amish Roll Butter,7.901,Wheat Bread
+Grill,[CYO Grill Component] Chicken Sandwich,Ithaca Bakery Large Roll [Butter Grilled Roll],1 Roll,yes,"FDA, Title 21, Volume 2; USDA Nutrient Database for Standard Reference",Amish Roll Butter,1.764,Wheat Bread
 Grill,[CYO Grill Component] Chicken Sandwich,Salted Butter [Butter Grilled Roll],5/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Butter, salted",0.104,Butter
 Grill,[CYO Grill Component] Chicken Sandwich,Kosher Salt [Rochester Seasoning],,,,,,
 Grill,[CYO Grill Component] Chicken Sandwich,Ground Cumin [Rochester Seasoning],,,,,,
@@ -16,7 +16,7 @@ Grill,[CYO Grill Component] Chicken Sandwich,Garlic Powder [Rochester Seasoning]
 Grill,[CYO Grill Component] Chicken Sandwich,Dark Chili Powder [Rochester Seasoning],,,,,,
 Grill,[CYO Grill Component] Chicken Sandwich,Black Pepper [Rochester Seasoning],,,,,,
 Grill,[CYO Grill Component] Salmon Burger,Salmon Burger Patty,3.2 Oz,no,,,3.2,Salmon
-Grill,[CYO Grill Component] Salmon Burger,Ithaca Bakery Large Roll [Butter Grilled Roll],1 Roll,yes,"FDA, Title 21, Volume 2; USDA Nutrient Database for Standard Reference",Amish Roll Butter,7.901,Wheat Bread
+Grill,[CYO Grill Component] Salmon Burger,Ithaca Bakery Large Roll [Butter Grilled Roll],1 Roll,yes,"FDA, Title 21, Volume 2; USDA Nutrient Database for Standard Reference",Amish Roll Butter,1.764,Wheat Bread
 Grill,[CYO Grill Component] Salmon Burger,Salted Butter [Butter Grilled Roll],5/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Butter, salted",0.104,Butter
 Grill,[CYO Grill Component] Impossible Burger,"""Impossible Burger"" Patty [Patty ""Impossible Burger"" Trillium]",4 Oz,no,,,4,Impossible Burger
 Grill,[CYO Grill Component] Impossible Burger,"Kosher Salt [Seasoning Rochester, Patty ""Impossible Burger"" Trillium]",,,,,,
@@ -24,7 +24,7 @@ Grill,[CYO Grill Component] Impossible Burger,"Ground Cumin [Seasoning Rochester
 Grill,[CYO Grill Component] Impossible Burger,"Garlic Powder [Seasoning Rochester, Patty ""Impossible Burger"" Trillium]",,,,,,
 Grill,[CYO Grill Component] Impossible Burger,"Dark Chili Powder [Seasoning Rochester, Patty ""Impossible Burger"" Trillium]",,,,,,
 Grill,[CYO Grill Component] Impossible Burger,"Black Pepper [Seasoning Rochester, Patty ""Impossible Burger"" Trillium]",,,,,,
-Grill,[CYO Grill Component] Impossible Burger,Ithaca Bakery Large Roll,1 Roll,yes,"FDA, Title 21, Volume 2; USDA Nutrient Database for Standard Reference",Amish Roll Butter,7.901,Wheat Bread
+Grill,[CYO Grill Component] Impossible Burger,Ithaca Bakery Large Roll,1 Roll,yes,"FDA, Title 21, Volume 2; USDA Nutrient Database for Standard Reference",Amish Roll Butter,1.764,Wheat Bread
 Grill,[CYO Grill Component] Impossible Burger,Daiya Vegan Sliced Cheddar,1 Slice,yes,Daiya Foods,Dairy-Free Cheddar Slices,0.776,Daiya Cheddar Slices
 Grill,"[CYO Grill Component] Toppings, Mayonnasie",Extra Heavy Mayonnaise [Assorted Burger Toppings],,,,,,
 Grill,"[CYO Grill Component] Toppings, Ketchup",Ketchup [Assorted Burger Toppings],,,,,,
@@ -61,6 +61,14 @@ Grill,[CYO Grill Component] Fries,Kosher Salt,,,,,,
 Grill,[CYO Grill Component] Sweet Potato Fries,Sweet Potato Fries,4 Oz,no,,,4,Sweet Potato Fries
 Grill,[CYO Grill Component] Sweet Potato Fries,Canola Oil,,,,,,
 Grill,[CYO Grill Component] Sweet Potato Fries,Kosher Salt,,,,,,
+Grill,[CYO Grill Component] Black Bean Burger,Ithaca Bakery Large Roll [Butter Grilled Roll],1 Roll,yes,"FDA, Title 21, Volume 2; USDA Nutrient Database for Standard Reference",Amish Roll Butter,1.764,Wheat Bread
+Grill,[CYO Grill Component] Black Bean Burger,Salted Butter [Butter Grilled Roll],5/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Butter, salted",0.104,Butter
+Grill,[CYO Grill Component] Black Bean Burger,Gardein Black Bean Burger,1 Burger,yes,Garden Plant-Based Protein,Ultimate Black Bean Burger,4,Beans
+Grill,[CYO Grill Component] Black Bean Burger,Vegalene Canola Pan Spray,1 Second Spray,yes,Seattle Times,1/5 Teaspoon,0.03,Sunflower Oil (CAN)
+Grill,[CYO Grill Component] Black Bean Burger,Grean Leaf Lettuce,1 Leaf,yes,Nutritionix,"Green Leaf Lettuce (1 cup, shredded)",1.27,Lettuce
+Grill,[CYO Grill Component] Black Bean Burger,Sliced Tomato ,2 Slice,yes,Nutritionix,"Tomato - 2 slices, medium (1/4"" thick) from USDA",1.41,Tomato
+Grill,[CYO Grill Component] Black Bean Burger,Sliced Red Onion,1 Oz,no,,,1,Onion
+Grill,[CYO Grill Component] Black Bean Burger,Sliced Kosher Dill Pickle,,,,,,
 Ramen,[CYO Ramen Component] Chicken Bowl,Japanese Ramen Noodles [Ramen Noodles],4 Oz,no,,,4,Wheat Noodles
 Ramen,[CYO Ramen Component] Chicken Bowl,Water [Ramen Noodles],,,,,,
 Ramen,[CYO Ramen Component] Chicken Bowl,Fresh Peeled Garlic Gloves [Chicken Ramen Broth Trillium],1 Tablespoon + 1 3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Chopped Garlic,0.529,Onion
@@ -265,3 +273,4 @@ Pasta,[CYO Pasta Component] Parmesan Cheese,"Shredded Parmesan Cheese [Parmesan 
 Pasta,[CYO Pasta Component] Asiago Cheese,"Asiago Cheese [Asiago Cheese, Trillium Pasta Station Cheese Options]",1 Tablespoon,yes,USDA Nutrient Database for Standard Reference,"Cheese, parmesan, grated",0.22,Parmesan
 Pasta,[CYO Pasta Component] Breadstick,Parbaked Garlic Breadstick [Breadstick],1.75 Oz,no,,,1.75,Wheat Bread
 Pasta,[CYO Pasta Component] Parsley Garnish,Fresh Flat Leaf Parsley,0.1 Oz,no,,,0.1,Fennel
+Pasta,[CYO Pasta Component] Meatless Meatballs,Gardein Vegan Meatball,1.6 Oz,no,,,1.6,Pea Protein (CAN)
