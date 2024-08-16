@@ -110,7 +110,7 @@ Ramen,[CYO Ramen Component] Chicken Bowl,"Fresh Peeled Garlic Cloves [Dressing A
 Ramen,[CYO Ramen Component] Chicken Bowl,"Honey [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",,,,,,
 Ramen,[CYO Ramen Component] Chicken Bowl,"Dijon Mustard [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",,,,,,
 Ramen,[CYO Ramen Component] Chicken Bowl,"Ginger Root [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",,,,,,
-Ramen,[CYO Ramen Component] Chicken Bowl,"Sesame Oil [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",1/2 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Pure Sesame Oil,0.082,Rapeseed Oil
+Ramen,[CYO Ramen Component] Chicken Bowl,"Sesame Oil [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",1/2 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Pure Sesame Oil,0.082,Sesame Oil
 Ramen,[CYO Ramen Component] Chicken Bowl,"Canola Oil [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",2 7/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Canola and Soybean Oil,0.461,Sunflower Oil (CAN)
 Ramen,[CYO Ramen Component] Chicken Bowl,Egg Whole Fresh Medium Flat [Egg Sous Vide],1 Egg,yes,USDA Nutrient Database for Standard Reference,Medium (M) Egg,1.764,Eggs
 Ramen,[CYO Ramen Component] Chicken Bowl,Water [Egg Sous Vide],,,,,,
@@ -144,7 +144,7 @@ Ramen,[CYO Ramen Component] Tofu Bowl,"Fresh Peeled Garlic Cloves [Dressing Asia
 Ramen,[CYO Ramen Component] Tofu Bowl,"Honey [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",,,,,,
 Ramen,[CYO Ramen Component] Tofu Bowl,"Dijon Mustard [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",,,,,,
 Ramen,[CYO Ramen Component] Tofu Bowl,"Ginger Root [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",,,,,,
-Ramen,[CYO Ramen Component] Tofu Bowl,"Sesame Oil [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",1/2 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Pure Sesame Oil,0.082,Rapeseed Oil
+Ramen,[CYO Ramen Component] Tofu Bowl,"Sesame Oil [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",1/2 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Pure Sesame Oil,0.082,Sesame Oil
 Ramen,[CYO Ramen Component] Tofu Bowl,"Canola Oil [Dressing Asian Sesame Gf, Cabbage Sesame Salad]",2 7/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Canola and Soybean Oil,0.461,Sunflower Oil (CAN)
 Ramen,[CYO Ramen Component] Tofu Bowl,Egg Whole Fresh Medium Flat [Egg Sous Vide],1 Egg,yes,USDA Nutrient Database for Standard Reference,Medium (M) Egg,1.764,Eggs
 Ramen,[CYO Ramen Component] Tofu Bowl,Water [Egg Sous Vide],,,,,,
@@ -157,7 +157,7 @@ Pasta,[CYO Pasta Component] Alfredo Sauce,"Heavy Cream [Alfredo Sauce, Trillium 
 Pasta,[CYO Pasta Component] Alfredo Sauce,"Grated Parmesan Cheese [Alfredo Sauce, Trillium Pasta Station Sauce Options]",1 Tablespoon + 2 1/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Cheese, parmesan, grated",0.386,Parmesan
 Pasta,[CYO Pasta Component] Alfredo Sauce,"Kosher Salt [Alfredo Sauce, Trillium Pasta Station Sauce Options]",,,,,,
 Pasta,[CYO Pasta Component] Alfredo Sauce,"Black Pepper [Alfredo Sauce, Trillium Pasta Station Sauce Options]",,,,,,
-Pasta,[CYO Pasta Component] Alfredo Sauce,"Fresh Flat Leaf Parsley [Alfredo Sauce, Trillium Pasta Station Sauce Options]",1/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Parsley, fresh",0.011,Fennel
+Pasta,[CYO Pasta Component] Alfredo Sauce,"Fresh Flat Leaf Parsley [Alfredo Sauce, Trillium Pasta Station Sauce Options]",1/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Parsley, fresh",0.011,Spinach
 Pasta,[CYO Pasta Component] Creamy Spinach Alfredo Sauce,"Salted Butter [Alfredo Sauce, Creamy Spinach Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",1 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Butter, salted",0.167,Butter
 Pasta,[CYO Pasta Component] Creamy Spinach Alfredo Sauce,"Fresh Peeled Garlic Cloves [Alfredo Sauce, Creamy Spinach Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",1/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Chopped Garlic,0.022,Onion
 Pasta,[CYO Pasta Component] Creamy Spinach Alfredo Sauce,"All Purpose Flour [Alfredo Sauce, Creamy Spinach Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",1 3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,All-Purpose Flour,0.154,Wheat Flour
@@ -166,14 +166,14 @@ Pasta,[CYO Pasta Component] Creamy Spinach Alfredo Sauce,"Heavy Cream [Alfredo S
 Pasta,[CYO Pasta Component] Creamy Spinach Alfredo Sauce,"Grated Parmesan Cheese [Alfredo Sauce, Creamy Spinach Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",1 Tablespoon + 2 1/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Cheese, parmesan, grated",0.386,Parmesan
 Pasta,[CYO Pasta Component] Creamy Spinach Alfredo Sauce,"Kosher Salt [Alfredo Sauce, Creamy Spinach Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",,,,,,
 Pasta,[CYO Pasta Component] Creamy Spinach Alfredo Sauce,"Black Pepper [Alfredo Sauce, Creamy Spinach Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",,,,,,
-Pasta,[CYO Pasta Component] Creamy Spinach Alfredo Sauce,"Fresh Flat Leaf Parlsey [Alfredo Sauce, Creamy Spinach Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",1/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Parsley, fresh",0.011,Fennel
+Pasta,[CYO Pasta Component] Creamy Spinach Alfredo Sauce,"Fresh Flat Leaf Parlsey [Alfredo Sauce, Creamy Spinach Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",1/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Parsley, fresh",0.011,Spinach
 Pasta,[CYO Pasta Component] Creamy Spinach Alfredo Sauce,"Canola Oil [Sauteed Spinach, Creamy Spinach Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",,,,,,
-Pasta,[CYO Pasta Component] Creamy Spinach Alfredo Sauce,"Spinach [Sauteed Spinach, Creamy Spinach Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",1 3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Spinach, raw",0.039,Lettuce
+Pasta,[CYO Pasta Component] Creamy Spinach Alfredo Sauce,"Spinach [Sauteed Spinach, Creamy Spinach Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",1 3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Spinach, raw",0.039,Spinach
 Pasta,[CYO Pasta Component] Creamy Spinach Alfredo Sauce,"Kosher Salt [Sauteed Spinach, Creamy Spinach Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",,,,,,
 Pasta,[CYO Pasta Component] Creamy Spinach Alfredo Sauce,"Black Pepper [Sauteed Spinach, Creamy Spinach Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",,,,,,
 Pasta,[CYO Pasta Component] Marinara Pasta Sauce,"Extra Virgin Olive Oil [Marinara Pasta Sauce, Trillium Pasta Station Sauce]",1/2 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Oil, olive, extra virgin",0.079,Olive Oil
 Pasta,[CYO Pasta Component] Marinara Pasta Sauce,"Fresh Peeled Garlic Cloves [Marinara Pasta Sauce, Trillium Pasta Station Sauce]",1/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Chopped Garlic,0.022,Onion
-Pasta,[CYO Pasta Component] Marinara Pasta Sauce,"Fresh Basil [Marinara Pasta Sauce, Trillium Pasta Station Sauce]",1/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Basil, raw",0.002,Fennel
+Pasta,[CYO Pasta Component] Marinara Pasta Sauce,"Fresh Basil [Marinara Pasta Sauce, Trillium Pasta Station Sauce]",1/8 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Basil, raw",0.002,Spinach
 Pasta,[CYO Pasta Component] Marinara Pasta Sauce,"Piancone Canned Ground Tomatoes [Marinara Pasta Sauce, Trillium Pasta Station Sauce]",#10 Can,yes,USDA Nutrient Database for Standard Reference,Ground peeled tomatoes,3.2,Tomato
 Pasta,[CYO Pasta Component] Marinara Pasta Sauce,"Black Pepper [Marinara Pasta Sauce, Trillium Pasta Station Sauce]",,,,,,
 Pasta,[CYO Pasta Component] Marinara Pasta Sauce,"Crushed Red Pepper Flakes [Marinara Pasta Sauce, Trillium Pasta Station Sauce]",,,,,,
@@ -189,8 +189,8 @@ Pasta,[CYO Pasta Component] Creamy Pesto Sauce,"Heavy Cream [Alfredo Sauce, Crea
 Pasta,[CYO Pasta Component] Creamy Pesto Sauce,"Grated Parmesan Cheese [Alfredo Sauce, Creamy Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",1 Tablespoon + 2 1/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Cheese, parmesan, grated",0.386,Parmesan
 Pasta,[CYO Pasta Component] Creamy Pesto Sauce,"Kosher Salt [Alfredo Sauce, Creamy Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",,,,,,
 Pasta,[CYO Pasta Component] Creamy Pesto Sauce,"Black Pepper [Alfredo Sauce, Creamy Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",,,,,,
-Pasta,[CYO Pasta Component] Creamy Pesto Sauce,"Fresh Flat Leaf Parsley [Alfredo Sauce, Creamy Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",1/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Parsley, fresh",0.011,Fennel
-Pasta,[CYO Pasta Component] Creamy Pesto Sauce,"*Basil [Nut Free Basil Pesto Sauce, Creamy Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",*2 1/2 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Sauce, pesto, ready-to-serve, refrigerated",0.153,Fennel
+Pasta,[CYO Pasta Component] Creamy Pesto Sauce,"Fresh Flat Leaf Parsley [Alfredo Sauce, Creamy Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",1/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Parsley, fresh",0.011,Spinach
+Pasta,[CYO Pasta Component] Creamy Pesto Sauce,"*Basil [Nut Free Basil Pesto Sauce, Creamy Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",*2 1/2 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Sauce, pesto, ready-to-serve, refrigerated",0.153,Spinach
 Pasta,[CYO Pasta Component] Creamy Pesto Sauce,"*Parmesan [Nut Free Basil Pesto Sauce, Creamy Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",*2 1/2 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Sauce, pesto, ready-to-serve, refrigerated",0.153,Parmesan
 Pasta,[CYO Pasta Component] Creamy Pesto Sauce,"*Olive Oil [Nut Free Basil Pesto Sauce, Creamy Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",*2 1/2 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Sauce, pesto, ready-to-serve, refrigerated",0.153,Olive Oil
 Pasta,[CYO Pasta Component] Creamy Sun Dried Tomato Pesto Sauce,"Salted Butter [Alfredo Sauce, Creamy Sun Dried Tomato Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",1 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Butter, salted",0.167,Butter
@@ -201,7 +201,7 @@ Pasta,[CYO Pasta Component] Creamy Sun Dried Tomato Pesto Sauce,"Heavy Cream [Al
 Pasta,[CYO Pasta Component] Creamy Sun Dried Tomato Pesto Sauce,"Grated Parmesan Cheese [Alfredo Sauce, Creamy Sun Dried Tomato Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",1 Tablespoon + 2 1/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Cheese, parmesan, grated",0.386,Parmesan
 Pasta,[CYO Pasta Component] Creamy Sun Dried Tomato Pesto Sauce,"Kosher Salt [Alfredo Sauce, Creamy Sun Dried Tomato Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",,,,,,
 Pasta,[CYO Pasta Component] Creamy Sun Dried Tomato Pesto Sauce,"Black Pepper [Alfredo Sauce, Creamy Sun Dried Tomato Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",,,,,,
-Pasta,[CYO Pasta Component] Creamy Sun Dried Tomato Pesto Sauce,"Fresh Flat Leaf Parsley [Alfredo Sauce, Creamy Sun Dried Tomato Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",1/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Parsley, fresh",0.011,Fennel
+Pasta,[CYO Pasta Component] Creamy Sun Dried Tomato Pesto Sauce,"Fresh Flat Leaf Parsley [Alfredo Sauce, Creamy Sun Dried Tomato Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",1/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Parsley, fresh",0.011,Spinach
 Pasta,[CYO Pasta Component] Creamy Sun Dried Tomato Pesto Sauce,"Sun Dried Tomato [Sun Dried Tomato Pesto, Creamy Sun Dried Tomato Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",*1 Tablespoon + 3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Sun-dried tomato pesto sauce and spread,0.227,Tomato
 Pasta,[CYO Pasta Component] Creamy Sun Dried Tomato Pesto Sauce,"Parmesan [Sun Dried Tomato Pesto, Creamy Sun Dried Tomato Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",*1 Tablespoon + 3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Sun-dried tomato pesto sauce and spread,0.227,Parmesan
 Pasta,[CYO Pasta Component] Creamy Sun Dried Tomato Pesto Sauce,"Olive Oil [Sun Dried Tomato Pesto, Creamy Sun Dried Tomato Pesto Sauce, Trillium Pasta Station LTO Sauce Options]",*1 Tablespoon + 3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Sun-dried tomato pesto sauce and spread,0.227,Olive Oil
@@ -213,7 +213,7 @@ Pasta,[CYO Pasta Component] Creamy Red Pepper Alfredo Sauce,"Heavy Cream [Alfred
 Pasta,[CYO Pasta Component] Creamy Red Pepper Alfredo Sauce,"Grated Parmesan Cheese [Alfredo Sauce, Creamy Red Pepper Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",1 Tablespoon + 2 1/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Cheese, parmesan, grated",0.386,Parmesan
 Pasta,[CYO Pasta Component] Creamy Red Pepper Alfredo Sauce,"Kosher Salt [Alfredo Sauce, Creamy Red Pepper Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",,,,,,
 Pasta,[CYO Pasta Component] Creamy Red Pepper Alfredo Sauce,"Black Pepper [Alfredo Sauce, Creamy Red Pepper Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",,,,,,
-Pasta,[CYO Pasta Component] Creamy Red Pepper Alfredo Sauce,"Fresh Flat Leaf Parsley [Alfredo Sauce, Creamy Red Pepper Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",1/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Parsley, fresh",0.011,Fennel
+Pasta,[CYO Pasta Component] Creamy Red Pepper Alfredo Sauce,"Fresh Flat Leaf Parsley [Alfredo Sauce, Creamy Red Pepper Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",1/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Parsley, fresh",0.011,Spinach
 Pasta,[CYO Pasta Component] Creamy Red Pepper Alfredo Sauce,"Roasted Red Peppers [Creamy Red Pepper Alfredo Sauce, Trillium Pasta Station LTO Sauce Options]",1 Tablespoon + 3/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,Diced green bell peppers,0.3,Bell Pepper
 Pasta,[CYO Pasta Component] Penne Pasta,"Kosher Salt [Whole Grain Penne Pasta, Trillium Pasta Station Pasta Options]",,,,,,
 Pasta,[CYO Pasta Component] Penne Pasta,"Water [Whole Grain Penne Pasta, Trillium Pasta Station Pasta Options]",,,,,,
@@ -273,5 +273,5 @@ Pasta,[CYO Pasta Component] Breaded Chicken Breast,"Homestyle Breaded Chicken Br
 Pasta,[CYO Pasta Component] Parmesan Cheese,"Shredded Parmesan Cheese [Parmesan Cheese, Trillium Pasta Station Cheese Options]",2 1/4 Teaspoon,yes,USDA Nutrient Database for Standard Reference,"Cheese, parmesan, grated",0.17,Parmesan
 Pasta,[CYO Pasta Component] Asiago Cheese,"Asiago Cheese [Asiago Cheese, Trillium Pasta Station Cheese Options]",1 Tablespoon,yes,USDA Nutrient Database for Standard Reference,"Cheese, parmesan, grated",0.22,Parmesan
 Pasta,[CYO Pasta Component] Breadstick,Parbaked Garlic Breadstick [Breadstick],1.75 Oz,no,,,1.75,Wheat Bread
-Pasta,[CYO Pasta Component] Parsley Garnish,Fresh Flat Leaf Parsley,0.1 Oz,no,,,0.1,Fennel
+Pasta,[CYO Pasta Component] Parsley Garnish,Fresh Flat Leaf Parsley,0.1 Oz,no,,,0.1,Spinach
 Pasta,[CYO Pasta Component] Meatless Meatballs,Gardein Vegan Meatball,1.6 Oz,no,,,1.6,Pea Protein (CAN)
