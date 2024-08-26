@@ -116,6 +116,19 @@ transaction_volume_by_minute %>%
     ## # … with 69 more rows
 
 ``` r
+transaction_volume_by_minute %>%
+  group_by(date) %>%
+  summarise(sum(count)) %>%
+  rename(count="sum(count)") %>%
+  summarise(mean(count))
+```
+
+    ## # A tibble: 1 × 1
+    ##   `mean(count)`
+    ##           <dbl>
+    ## 1         1704.
+
+``` r
 volume_by_date <- transaction_volume_by_day %>%
   mutate(day=fct_relevel(day,"Monday","Tuesday","Wednesday","Thursday","Friday")) %>%
   ggplot(aes(x=date_abbrev,y=count,fill=day)) + 
@@ -217,7 +230,7 @@ ggarrange(volume_by_date,
 
     ## Picking joint bandwidth of 93.3
 
-![](planning-script_files/figure-gfm/unnamed-chunk-16-1.png)<!-- -->
+![](planning-script_files/figure-gfm/unnamed-chunk-17-1.png)<!-- -->
 
 ``` r
 sf1 <- ggarrange(volume_by_date,
@@ -334,7 +347,7 @@ transaction_volume_by_day %>%
 ggarrange(ggarrange(days_by_week,volume_by_week,ncol=2,labels=c("A","B")),mean_by_week,nrow=2,labels=c("","C"),common.legend=TRUE,legend="none",heights=c(0.8,1))
 ```
 
-![](planning-script_files/figure-gfm/unnamed-chunk-24-1.png)<!-- -->
+![](planning-script_files/figure-gfm/unnamed-chunk-25-1.png)<!-- -->
 
 ``` r
 sf2 <- ggarrange(ggarrange(days_by_week,volume_by_week,ncol=2,labels=c("A","B")),mean_by_week,nrow=2,labels=c("","C"),common.legend=TRUE,legend="none",heights=c(0.8,1))
