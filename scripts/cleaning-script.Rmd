@@ -7,8 +7,6 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Cleaning Script
-
 ## Package Loading
 
 ```{r}
@@ -29,7 +27,7 @@ In the interest of avoiding double counting downstream, we will first remove the
 To accomplish this, we create the following string 
 
 ```{r}
-aggregates=c("Total","Unit Prepared","Grill","Asian","Breakfast","Italian","Mexican","Soup","Salad Bar","Beverages","Grab N Go","Open Misc","Salads","Convenience","Beverages","Dairy","NutritionalSnack","Food","Salty Snacks","Baked Goods","Ice Cream","Grocery","Candy Confection","Int Commissary","Straight Bakery","Take Us Home","Ext Commissary","Sushi","York Street Comm")
+aggregates=c("Total","Unit Prepared","Grill","Asian","Breakfast","Italian","Mexican","Soup","Salad Bar","Beverages","Grab N Go","Open Misc","Salads","Convenience","Beverages","Dairy","NutritionalSnack","Food","Salty Snacks","Baked Goods","Ice Cream","Grocery","Candy Confection","Int Commissary","Commissary","Straight Bakery","Take Us Home","Ext Commissary","Sushi","York Street Comm","GF Commissary")
 sales_data <- sales_data %>%
   filter(!(item %in% aggregates))
 ```
@@ -49,26 +47,78 @@ sales_data <- sales_data %>%
                              item=="Add Sausage 2 Patty"~"grill",
                              item=="ADD Beef Patty $2.99"~"grill",
                              item=="ADD Cheese"~"grill",
+                             item=="ADD Chicken Breast"~"grill",
+                             item=="ADD Burger Salmon Grilled"~"grill",
                              item=="Add Egg $.99"~"grill",
                              item=="Bowl Ramen Tofu"~"ramen",
                              item=="Bowl Ramen Chicken"~"ramen",
-                             item=="Quesadilla Deluxe Trillium"~"quesadilla",
-                             item=="Burrito Una Mano Trillium BYO"~"quesadilla",
-                             item=="Quesadilla Cheese"~"quesadilla",
+                             item=="Quesadilla Deluxe Trillium"~"mexican",
+                             item=="Burrito Una Mano Trillium BYO"~"mexican",
+                             item=="Quesadilla Cheese"~"mexican",
                              item=="1 Entree + 1 Side"~"wok",
                              item=="1 Entree + 2 Side"~"wok",
                              item=="2 Entrees + 2 Sides"~"wok",
+                             item=="Add Extra Toppings"~"ramen",
                              item=="1 Wok Entree"~"wok",
                              item=="Side Vegetarian Lo Mein"~"wok",
+                             item=="Side Fried Spring Roll"~"wok",
                              item=="Side Vegetables"~"wok",
                              item=="Side Vegetable Spring Rolls"~"wok",
                              item=="Side Vegetarian Fried Rice with"~"wok",
-                             item=="Side White or Brown Rice"~"wok"
+                             item=="Side White or Brown Rice"~"wok",
+                             item=="Create Your Pasta Bowl MEAT"~"italian",
+                             item=="Pizza with Toppings"~"italian",
+                             item=="Create Your Pasta Bowl VEG"~"italian",
+                             item=="Pizza Cheese"~"italian",
+                             item=="Add Extra Meat"~"italian",
+                             item=="Side Bread Pasta Station"~"italian",
+                             item=="Burrito Bowl BYO"~"mexican",
+                             item=="Single Taco"~"mexican",
+                             item=="Side Guacamole"~"mexican",
+                             item=="Add Extra Toppings Una Mano"~"mexican",
+                             item=="Side Salsa"~"mexican",
+                             item=="Salad by the Pound"~"salad bar",
+                             item=="Soup 12 oz"~"salad bar",
+                             item=="8 oz Soup"~"salad bar",
+                             item=="BowlMexicanChick"~"grab 'n' go",
+                             item=="Tempura Crunch Roll"~"grab 'n' go",
+                             item=="Golden Dragon Roll"~"grab 'n' go",
+                             item=="Avocado Roll"~"grab 'n' go",
+                             item=="California Roll"~"grab 'n' go",
+                             item=="TSA Roll"~"grab 'n' go",
+                             item=="Spicy Tuna Roll"~"grab 'n' go",
+                             item=="Hawaiian Volcano Roll"~"grab 'n' go",
+                             item=="Hawaiian Sunset"~"grab 'n' go",
+                             item=="Alaskan Roll"~"grab 'n' go",
+                             item=="Tempura Crunch Rooll"~"grab 'n' go",
+                             item=="Tempura Shrimp Roll"~"grab 'n' go",
+                             item=="Salmon Roll"~"grab 'n' go",
+                             item=="Salad Chicken Caesar"~"grab 'n' go",
+                             item=="Sandwich Corned Beef & Swiss"~"grab 'n' go",
+                             item=="Sandwich Crispy Chicken Milanese"~"grab 'n' go",
+                             item=="Wrap Chicken Caesar"~"grab 'n' go",
+                             item=="Sandwich Black Forrest Ham & Swi"~"grab 'n' go",
+                             item=="Sandwich Prosciutto & Mozzarella"~"grab 'n' go",
+                             item=="Wrap Buffalo Chicken"~"grab 'n' go",
+                             item=="BowlSesAsianNood"~"grab 'n' go",
+                             item=="BowlChickAlfrPen"~"grab 'n' go",
+                             item=="BowlMedProtein"~"grab 'n' go",
+                             item=="BowlSouthChick"~"grab 'n' go",
+                             item=="GF ChickCaesarSld"~"grab 'n' go",
+                             item=="GF SunButterJelly"~"grab 'n' go",
+                             item=="GFSunButterJelly"~"grab 'n' go",
+                             item=="GF"~"grab 'n' go",
+                             item=="GF Turkey Sand"~"grab 'n' go",
+                             item=="GF ChicCaesarSld"~"grab 'n' go",
+                             item=="PBJ on Wheat"~"grab 'n' go"
                              )) 
 ```
 
 
 
+```{r}
+sales_data
+```
 
 
 
